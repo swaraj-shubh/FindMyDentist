@@ -8,7 +8,7 @@ const sans = Geist({ variable: "--font-sans", subsets: ["latin"] });
 const mono = Geist_Mono({ variable: "--font-geist-mono", subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: { default: "FindMyDentist — your dental world, connected", template: "%s · FMD" },
+  title: { default: "FindMyDentist - your dental world, connected", template: "%s · FMD" },
   description: "FMD connects patients, dentists, clinics and dental academics: AI dental guidance, dentist discovery and booking, clinic management and an AI academic workspace.",
 };
 

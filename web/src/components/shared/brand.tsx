@@ -1,18 +1,11 @@
+import Image from "next/image";
 import Link from "next/link";
 import { cn } from "@/lib/utils";
 import { PRODUCTS, type ProductId } from "@/lib/config/products";
 
-export function FmdMark({ className, color = "var(--product-main)" }: { className?: string; color?: string }) {
-  return (
-    <svg viewBox="0 0 32 32" aria-hidden className={cn("size-8 shrink-0", className)}>
-      <rect width="32" height="32" rx="9" fill={color} />
-      {/* Stylised molar */}
-      <path
-        d="M10.2 9.5c1.6-1.1 3.5-.9 5.8.2 2.3-1.1 4.2-1.3 5.8-.2 1.9 1.3 2.1 4 1.2 6.6-.6 1.8-1 3.6-1.3 5.5-.2 1.4-1 2.2-1.9 2.2-1.2 0-1.6-1.2-1.9-2.6-.3-1.5-.8-2.6-1.9-2.6s-1.6 1.1-1.9 2.6c-.3 1.4-.7 2.6-1.9 2.6-.9 0-1.7-.8-1.9-2.2-.3-1.9-.7-3.7-1.3-5.5-.9-2.6-.7-5.3 1.2-6.6Z"
-        fill="white"
-      />
-    </svg>
-  );
+/** The FMD logo (public/fmd.png). `color` is accepted for call-site compatibility but the logo keeps its brand colours. */
+export function FmdMark({ className }: { className?: string; color?: string }) {
+  return <Image src="/fmd.png" alt="" aria-hidden width={545} height={458} priority className={cn("size-8 shrink-0 object-contain", className)} />;
 }
 
 export function ProductLogo({ product, href, compact = false }: { product: ProductId; href?: string; compact?: boolean }) {
