@@ -1,0 +1,13 @@
+id,user_id,clinic_id,name,dob,gender,phone,email,blood_group,emergency_contact,allergies_json,medical_history_json,created_at
+p001,u001,c001,Ananya Rao,1994-06-12,female,+91 90000 0001,ananya@example.com,B-,Family · +91 90000 9001,"[""Penicillin""]",[],2026-03-26T04:30:00.000Z
+p002,,c001,Rahul Sharma,1988-02-03,male,+91 90000 0002,rahul@example.com,A+,Family · +91 90000 9002,[],"[""Hypertension (controlled)""]",2026-04-04T04:30:00.000Z
+p003,,c001,Sneha Rao,1996-11-21,female,+91 90000 0003,sneha@example.com,B-,Family · +91 90000 9003,[],[],2026-04-13T04:30:00.000Z
+p004,,c001,Aman Gupta,1979-07-30,male,+91 90000 0004,aman@example.com,O-,Family · +91 90000 9004,[],"[""Type 2 diabetes""]",2026-04-22T04:30:00.000Z
+p005,,c001,Fatima Khan,1952-03-14,female,+91 90000 0005,fatima@example.com,O+,Family · +91 90000 9005,[],"[""Osteoporosis — on alendronate"",""Hypertension""]",2026-05-01T04:30:00.000Z
+p006,,c001,Vivek Nair,1985-09-09,male,+91 90000 0006,vivek@example.com,O-,Family · +91 90000 9006,[],[],2026-05-10T04:30:00.000Z
+p007,,c001,Pooja Hegde,1992-12-01,female,+91 90000 0007,pooja@example.com,B+,Family · +91 90000 9007,"[""Latex""]",[],2026-05-19T04:30:00.000Z
+p008,,c001,Sanjay Patil,1970-05-17,male,+91 90000 0008,sanjay@example.com,A+,Family · +91 90000 9008,[],"[""Ex-smoker""]",2026-05-28T04:30:00.000Z
+p009,,c001,Deepa Menon,1983-08-25,female,+91 90000 0009,deepa@example.com,AB+,Family · +91 90000 9009,[],[],2026-06-06T04:30:00.000Z
+p010,,c001,Arnav Joshi,2016-04-02,male,+91 90000 0010,arnav@example.com,A+,Family · +91 90000 9010,[],[],2026-06-15T04:30:00.000Z
+p011,,c001,Gayatri Iyer,1990-01-19,female,+91 90000 0011,gayatri@example.com,B+,Family · +91 90000 9011,[],[],2026-06-24T04:30:00.000Z
+p012,,c001,Mohammed Irfan,1998-10-07,male,+91 90000 0012,mohammed@example.com,AB+,Family · +91 90000 9012,[],[],2026-07-03T04:30:00.000Z

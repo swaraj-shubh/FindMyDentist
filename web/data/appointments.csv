@@ -1,0 +1,331 @@
+duration,clinic_id,date,time,patient_id,dentist_id,reason,appointment_type,chair,status,id,created_at
+30,c001,2026-10-03,09:00,p002,d002,Root canal — second sitting,procedure,2,completed,a0001,2026-09-23T04:30:00.000Z
+30,c001,2026-10-03,09:30,p004,d003,Diabetes gum review,follow_up,3,completed,a0002,2026-09-23T04:30:00.000Z
+30,c001,2026-10-03,10:00,p003,d003,Scaling & root planing — Q3/Q4,procedure,3,confirmed,a0003,2026-09-23T04:30:00.000Z
+30,c001,2026-10-03,10:30,p005,d001,Denture jaw relation,procedure,1,confirmed,a0004,2026-09-23T04:30:00.000Z
+30,c001,2026-10-03,11:00,p012,d002,Post-extraction review,follow_up,2,no_show,a0005,2026-09-23T04:30:00.000Z
+30,c001,2026-10-03,11:30,p011,d002,Post & core,procedure,2,confirmed,a0006,2026-09-23T04:30:00.000Z
+30,c001,2026-10-03,12:00,p008,d001,Implant stability check,follow_up,1,scheduled,a0007,2026-09-23T04:30:00.000Z
+30,c001,2026-10-03,15:00,p009,d003,Pre-surgery counselling,in_person,3,scheduled,a0008,2026-09-23T04:30:00.000Z
+30,c001,2026-10-03,16:00,p006,d001,Crown review,follow_up,1,scheduled,a0009,2026-09-23T04:30:00.000Z
+30,c001,2026-10-03,16:30,p007,d002,Whitening touch-up consult,in_person,2,scheduled,a0010,2026-09-23T04:30:00.000Z
+30,c001,2026-10-03,17:30,p010,d002,6-month check-up,in_person,4,confirmed,a0011,2026-09-23T04:30:00.000Z
+30,c001,2026-06-05,11:30,p001,d003,Routine cleaning,in_person,3,completed,a0012,2026-09-23T04:30:00.000Z
+30,c001,2026-09-03,17:30,p001,d002,Sensitivity to cold — upper left,in_person,2,completed,a0013,2026-09-23T04:30:00.000Z
+30,c001,2026-10-08,10:30,p001,d001,Implant consultation — missing lower molar,in_person,1,confirmed,a0014,2026-09-23T04:30:00.000Z
+30,c001,2026-08-04,12:30,p011,d001,Tooth pain,in_person,4,completed,a0015,2026-09-23T04:30:00.000Z
+30,c001,2026-08-04,16:30,p003,d003,Filling,procedure,3,completed,a0016,2026-09-23T04:30:00.000Z
+30,c001,2026-08-04,15:30,p006,d003,Filling,procedure,1,completed,a0017,2026-09-23T04:30:00.000Z
+30,c001,2026-08-04,09:00,p003,d003,Video consultation,video,2,completed,a0018,2026-09-23T04:30:00.000Z
+30,c001,2026-08-04,11:00,p005,d002,Gum review,follow_up,3,no_show,a0019,2026-09-23T04:30:00.000Z
+30,c001,2026-08-05,15:30,p008,d002,Filling,procedure,3,completed,a0020,2026-09-23T04:30:00.000Z
+30,c001,2026-08-05,15:00,p006,d002,Tooth pain,in_person,4,completed,a0021,2026-09-23T04:30:00.000Z
+30,c001,2026-08-05,10:00,p012,d003,Video consultation,video,1,completed,a0022,2026-09-23T04:30:00.000Z
+30,c001,2026-08-06,15:00,p010,d002,Video consultation,video,2,cancelled,a0023,2026-09-23T04:30:00.000Z
+30,c001,2026-08-06,15:00,p007,d003,Check-up & cleaning,in_person,4,completed,a0024,2026-09-23T04:30:00.000Z
+30,c001,2026-08-06,18:30,p009,d001,Crown fitting,procedure,3,completed,a0025,2026-09-23T04:30:00.000Z
+30,c001,2026-08-06,12:30,p002,d001,Follow-up,follow_up,4,completed,a0026,2026-09-23T04:30:00.000Z
+30,c001,2026-08-07,18:00,p008,d003,Crown fitting,procedure,4,cancelled,a0027,2026-09-23T04:30:00.000Z
+30,c001,2026-08-07,09:00,p010,d002,Crown fitting,procedure,1,completed,a0028,2026-09-23T04:30:00.000Z
+30,c001,2026-08-07,18:30,p008,d002,Root canal sitting,procedure,1,completed,a0029,2026-09-23T04:30:00.000Z
+30,c001,2026-08-07,11:30,p003,d002,Check-up & cleaning,in_person,2,completed,a0030,2026-09-23T04:30:00.000Z
+30,c001,2026-08-07,11:00,p008,d002,Filling,procedure,2,cancelled,a0031,2026-09-23T04:30:00.000Z
+30,c001,2026-08-07,16:30,p009,d001,Video consultation,video,3,cancelled,a0032,2026-09-23T04:30:00.000Z
+30,c001,2026-08-08,11:00,p005,d001,Tooth pain,in_person,2,completed,a0033,2026-09-23T04:30:00.000Z
+30,c001,2026-08-08,17:00,p009,d002,Gum review,follow_up,2,completed,a0034,2026-09-23T04:30:00.000Z
+30,c001,2026-08-08,11:30,p009,d003,Crown fitting,procedure,2,completed,a0035,2026-09-23T04:30:00.000Z
+30,c001,2026-08-08,17:00,p008,d003,Gum review,follow_up,3,no_show,a0036,2026-09-23T04:30:00.000Z
+30,c001,2026-08-08,16:30,p011,d001,Filling,procedure,1,completed,a0037,2026-09-23T04:30:00.000Z
+30,c001,2026-08-10,18:30,p007,d003,Crown fitting,procedure,3,completed,a0038,2026-09-23T04:30:00.000Z
+30,c001,2026-08-10,18:30,p012,d001,Tooth pain,in_person,4,completed,a0039,2026-09-23T04:30:00.000Z
+30,c001,2026-08-10,09:30,p011,d001,Gum review,follow_up,1,cancelled,a0040,2026-09-23T04:30:00.000Z
+30,c001,2026-08-10,16:30,p011,d003,Crown fitting,procedure,4,completed,a0041,2026-09-23T04:30:00.000Z
+30,c001,2026-08-11,12:30,p008,d003,Tooth pain,in_person,1,completed,a0042,2026-09-23T04:30:00.000Z
+30,c001,2026-08-11,09:30,p009,d002,Tooth pain,in_person,1,completed,a0043,2026-09-23T04:30:00.000Z
+30,c001,2026-08-11,10:00,p006,d001,Gum review,follow_up,1,no_show,a0044,2026-09-23T04:30:00.000Z
+30,c001,2026-08-11,09:30,p008,d003,Root canal sitting,procedure,2,completed,a0045,2026-09-23T04:30:00.000Z
+30,c001,2026-08-11,16:30,p002,d001,Tooth pain,in_person,4,cancelled,a0046,2026-09-23T04:30:00.000Z
+30,c001,2026-08-12,18:30,p010,d003,Filling,procedure,2,completed,a0047,2026-09-23T04:30:00.000Z
+30,c001,2026-08-12,18:00,p010,d001,Follow-up,follow_up,2,completed,a0048,2026-09-23T04:30:00.000Z
+30,c001,2026-08-12,11:00,p011,d003,Follow-up,follow_up,1,completed,a0049,2026-09-23T04:30:00.000Z
+30,c001,2026-08-12,10:00,p012,d003,Tooth pain,in_person,4,completed,a0050,2026-09-23T04:30:00.000Z
+30,c001,2026-08-13,15:00,p007,d003,Tooth pain,in_person,3,completed,a0051,2026-09-23T04:30:00.000Z
+30,c001,2026-08-13,18:30,p004,d001,Filling,procedure,4,cancelled,a0052,2026-09-23T04:30:00.000Z
+30,c001,2026-08-13,18:30,p004,d002,Follow-up,follow_up,4,no_show,a0053,2026-09-23T04:30:00.000Z
+30,c001,2026-08-13,15:00,p011,d001,Check-up & cleaning,in_person,3,completed,a0054,2026-09-23T04:30:00.000Z
+30,c001,2026-08-13,17:00,p003,d002,Gum review,follow_up,2,completed,a0055,2026-09-23T04:30:00.000Z
+30,c001,2026-08-14,11:00,p010,d001,Check-up & cleaning,in_person,2,completed,a0056,2026-09-23T04:30:00.000Z
+30,c001,2026-08-14,12:30,p007,d002,Gum review,follow_up,4,completed,a0057,2026-09-23T04:30:00.000Z
+30,c001,2026-08-14,11:00,p004,d002,Tooth pain,in_person,2,completed,a0058,2026-09-23T04:30:00.000Z
+30,c001,2026-08-14,11:00,p012,d003,Filling,procedure,3,completed,a0059,2026-09-23T04:30:00.000Z
+30,c001,2026-08-14,17:00,p004,d001,Filling,procedure,3,cancelled,a0060,2026-09-23T04:30:00.000Z
+30,c001,2026-08-15,18:30,p010,d002,Tooth pain,in_person,4,completed,a0061,2026-09-23T04:30:00.000Z
+30,c001,2026-08-15,15:00,p006,d002,Tooth pain,in_person,2,completed,a0062,2026-09-23T04:30:00.000Z
+30,c001,2026-08-15,18:00,p008,d003,Follow-up,follow_up,1,completed,a0063,2026-09-23T04:30:00.000Z
+30,c001,2026-08-15,09:30,p010,d001,Follow-up,follow_up,2,completed,a0064,2026-09-23T04:30:00.000Z
+30,c001,2026-08-17,16:30,p010,d001,Check-up & cleaning,in_person,4,completed,a0065,2026-09-23T04:30:00.000Z
+30,c001,2026-08-17,11:30,p010,d002,Video consultation,video,1,completed,a0066,2026-09-23T04:30:00.000Z
+30,c001,2026-08-17,18:30,p011,d001,Root canal sitting,procedure,4,completed,a0067,2026-09-23T04:30:00.000Z
+30,c001,2026-08-17,11:00,p002,d002,Root canal sitting,procedure,4,completed,a0068,2026-09-23T04:30:00.000Z
+30,c001,2026-08-17,15:00,p011,d002,Video consultation,video,1,completed,a0069,2026-09-23T04:30:00.000Z
+30,c001,2026-08-17,12:30,p012,d002,Tooth pain,in_person,2,no_show,a0070,2026-09-23T04:30:00.000Z
+30,c001,2026-08-18,09:30,p011,d001,Gum review,follow_up,3,completed,a0071,2026-09-23T04:30:00.000Z
+30,c001,2026-08-18,15:30,p005,d002,Tooth pain,in_person,4,completed,a0072,2026-09-23T04:30:00.000Z
+30,c001,2026-08-18,12:30,p008,d001,Check-up & cleaning,in_person,2,completed,a0073,2026-09-23T04:30:00.000Z
+30,c001,2026-08-18,09:00,p011,d003,Check-up & cleaning,in_person,4,cancelled,a0074,2026-09-23T04:30:00.000Z
+30,c001,2026-08-18,11:00,p008,d002,Tooth pain,in_person,3,completed,a0075,2026-09-23T04:30:00.000Z
+30,c001,2026-08-19,10:00,p005,d002,Crown fitting,procedure,1,cancelled,a0076,2026-09-23T04:30:00.000Z
+30,c001,2026-08-19,12:30,p008,d003,Video consultation,video,2,completed,a0077,2026-09-23T04:30:00.000Z
+30,c001,2026-08-19,17:00,p005,d003,Gum review,follow_up,2,completed,a0078,2026-09-23T04:30:00.000Z
+30,c001,2026-08-19,16:30,p011,d002,Root canal sitting,procedure,2,completed,a0079,2026-09-23T04:30:00.000Z
+30,c001,2026-08-19,11:30,p012,d002,Root canal sitting,procedure,2,completed,a0080,2026-09-23T04:30:00.000Z
+30,c001,2026-08-20,11:00,p003,d002,Filling,procedure,1,completed,a0081,2026-09-23T04:30:00.000Z
+30,c001,2026-08-20,15:30,p011,d003,Tooth pain,in_person,3,completed,a0082,2026-09-23T04:30:00.000Z
+30,c001,2026-08-20,11:30,p007,d002,Filling,procedure,1,completed,a0083,2026-09-23T04:30:00.000Z
+30,c001,2026-08-20,15:00,p003,d003,Check-up & cleaning,in_person,3,completed,a0084,2026-09-23T04:30:00.000Z
+30,c001,2026-08-20,09:30,p011,d003,Video consultation,video,1,completed,a0085,2026-09-23T04:30:00.000Z
+30,c001,2026-08-21,10:00,p006,d001,Follow-up,follow_up,1,completed,a0086,2026-09-23T04:30:00.000Z
+30,c001,2026-08-21,18:30,p012,d001,Root canal sitting,procedure,4,completed,a0087,2026-09-23T04:30:00.000Z
+30,c001,2026-08-21,11:00,p011,d003,Crown fitting,procedure,4,completed,a0088,2026-09-23T04:30:00.000Z
+30,c001,2026-08-21,12:30,p004,d002,Check-up & cleaning,in_person,4,completed,a0089,2026-09-23T04:30:00.000Z
+30,c001,2026-08-21,09:00,p009,d003,Follow-up,follow_up,4,completed,a0090,2026-09-23T04:30:00.000Z
+30,c001,2026-08-21,12:30,p008,d003,Filling,procedure,1,completed,a0091,2026-09-23T04:30:00.000Z
+30,c001,2026-08-21,18:30,p010,d003,Root canal sitting,procedure,3,cancelled,a0092,2026-09-23T04:30:00.000Z
+30,c001,2026-08-22,11:30,p012,d003,Root canal sitting,procedure,1,completed,a0093,2026-09-23T04:30:00.000Z
+30,c001,2026-08-22,11:00,p011,d002,Crown fitting,procedure,1,completed,a0094,2026-09-23T04:30:00.000Z
+30,c001,2026-08-22,11:30,p007,d001,Filling,procedure,3,completed,a0095,2026-09-23T04:30:00.000Z
+30,c001,2026-08-22,12:30,p010,d002,Filling,procedure,2,completed,a0096,2026-09-23T04:30:00.000Z
+30,c001,2026-08-22,16:30,p006,d002,Root canal sitting,procedure,4,completed,a0097,2026-09-23T04:30:00.000Z
+30,c001,2026-08-24,15:30,p010,d002,Check-up & cleaning,in_person,2,completed,a0098,2026-09-23T04:30:00.000Z
+30,c001,2026-08-24,11:00,p006,d001,Root canal sitting,procedure,2,completed,a0099,2026-09-23T04:30:00.000Z
+30,c001,2026-08-24,10:00,p009,d003,Crown fitting,procedure,4,completed,a0100,2026-09-23T04:30:00.000Z
+30,c001,2026-08-24,15:30,p009,d003,Filling,procedure,4,completed,a0101,2026-09-23T04:30:00.000Z
+30,c001,2026-08-24,15:30,p007,d001,Crown fitting,procedure,2,completed,a0102,2026-09-23T04:30:00.000Z
+30,c001,2026-08-24,15:00,p005,d001,Root canal sitting,procedure,2,completed,a0103,2026-09-23T04:30:00.000Z
+30,c001,2026-08-24,18:30,p005,d001,Follow-up,follow_up,1,completed,a0104,2026-09-23T04:30:00.000Z
+30,c001,2026-08-25,18:00,p005,d003,Video consultation,video,3,completed,a0105,2026-09-23T04:30:00.000Z
+30,c001,2026-08-25,09:30,p007,d001,Gum review,follow_up,4,cancelled,a0106,2026-09-23T04:30:00.000Z
+30,c001,2026-08-25,10:00,p005,d003,Check-up & cleaning,in_person,3,completed,a0107,2026-09-23T04:30:00.000Z
+30,c001,2026-08-25,12:30,p004,d003,Filling,procedure,1,completed,a0108,2026-09-23T04:30:00.000Z
+30,c001,2026-08-25,11:30,p003,d003,Crown fitting,procedure,4,cancelled,a0109,2026-09-23T04:30:00.000Z
+30,c001,2026-08-26,18:00,p008,d003,Tooth pain,in_person,3,cancelled,a0110,2026-09-23T04:30:00.000Z
+30,c001,2026-08-26,12:30,p004,d001,Root canal sitting,procedure,4,no_show,a0111,2026-09-23T04:30:00.000Z
+30,c001,2026-08-26,09:30,p005,d003,Check-up & cleaning,in_person,3,completed,a0112,2026-09-23T04:30:00.000Z
+30,c001,2026-08-27,16:30,p010,d001,Follow-up,follow_up,2,completed,a0113,2026-09-23T04:30:00.000Z
+30,c001,2026-08-28,09:30,p004,d001,Video consultation,video,4,completed,a0114,2026-09-23T04:30:00.000Z
+30,c001,2026-08-28,18:00,p004,d003,Gum review,follow_up,4,completed,a0115,2026-09-23T04:30:00.000Z
+30,c001,2026-08-28,10:00,p004,d003,Filling,procedure,4,completed,a0116,2026-09-23T04:30:00.000Z
+30,c001,2026-08-28,18:30,p012,d002,Filling,procedure,4,completed,a0117,2026-09-23T04:30:00.000Z
+30,c001,2026-08-29,11:30,p003,d001,Root canal sitting,procedure,3,completed,a0118,2026-09-23T04:30:00.000Z
+30,c001,2026-08-29,09:30,p005,d002,Crown fitting,procedure,3,completed,a0119,2026-09-23T04:30:00.000Z
+30,c001,2026-08-29,18:00,p002,d003,Tooth pain,in_person,3,completed,a0120,2026-09-23T04:30:00.000Z
+30,c001,2026-08-29,11:30,p012,d003,Root canal sitting,procedure,1,completed,a0121,2026-09-23T04:30:00.000Z
+30,c001,2026-08-29,12:30,p002,d001,Video consultation,video,1,completed,a0122,2026-09-23T04:30:00.000Z
+30,c001,2026-08-31,15:30,p011,d001,Video consultation,video,3,completed,a0123,2026-09-23T04:30:00.000Z
+30,c001,2026-08-31,09:30,p012,d001,Check-up & cleaning,in_person,1,completed,a0124,2026-09-23T04:30:00.000Z
+30,c001,2026-08-31,18:00,p011,d002,Follow-up,follow_up,4,completed,a0125,2026-09-23T04:30:00.000Z
+30,c001,2026-08-31,11:00,p012,d001,Follow-up,follow_up,1,completed,a0126,2026-09-23T04:30:00.000Z
+30,c001,2026-09-01,16:30,p003,d001,Follow-up,follow_up,2,completed,a0127,2026-09-23T04:30:00.000Z
+30,c001,2026-09-01,10:00,p007,d003,Crown fitting,procedure,3,completed,a0128,2026-09-23T04:30:00.000Z
+30,c001,2026-09-01,09:30,p012,d002,Gum review,follow_up,4,completed,a0129,2026-09-23T04:30:00.000Z
+30,c001,2026-09-02,18:00,p007,d002,Crown fitting,procedure,2,completed,a0130,2026-09-23T04:30:00.000Z
+30,c001,2026-09-02,15:30,p005,d001,Filling,procedure,3,completed,a0131,2026-09-23T04:30:00.000Z
+30,c001,2026-09-02,18:30,p011,d002,Tooth pain,in_person,3,completed,a0132,2026-09-23T04:30:00.000Z
+30,c001,2026-09-02,09:00,p007,d002,Gum review,follow_up,3,completed,a0133,2026-09-23T04:30:00.000Z
+30,c001,2026-09-02,18:30,p006,d001,Check-up & cleaning,in_person,2,completed,a0134,2026-09-23T04:30:00.000Z
+30,c001,2026-09-02,15:00,p002,d002,Video consultation,video,3,cancelled,a0135,2026-09-23T04:30:00.000Z
+30,c001,2026-09-03,11:30,p012,d002,Filling,procedure,4,completed,a0136,2026-09-23T04:30:00.000Z
+30,c001,2026-09-03,11:00,p012,d002,Tooth pain,in_person,3,completed,a0137,2026-09-23T04:30:00.000Z
+30,c001,2026-09-03,15:30,p006,d002,Crown fitting,procedure,3,completed,a0138,2026-09-23T04:30:00.000Z
+30,c001,2026-09-03,11:30,p002,d001,Gum review,follow_up,4,completed,a0139,2026-09-23T04:30:00.000Z
+30,c001,2026-09-03,18:00,p008,d003,Filling,procedure,1,completed,a0140,2026-09-23T04:30:00.000Z
+30,c001,2026-09-03,12:30,p007,d001,Filling,procedure,3,completed,a0141,2026-09-23T04:30:00.000Z
+30,c001,2026-09-04,15:30,p003,d002,Gum review,follow_up,3,completed,a0142,2026-09-23T04:30:00.000Z
+30,c001,2026-09-04,10:00,p008,d002,Crown fitting,procedure,2,completed,a0143,2026-09-23T04:30:00.000Z
+30,c001,2026-09-04,15:30,p006,d001,Tooth pain,in_person,4,completed,a0144,2026-09-23T04:30:00.000Z
+30,c001,2026-09-04,09:00,p011,d003,Filling,procedure,3,completed,a0145,2026-09-23T04:30:00.000Z
+30,c001,2026-09-04,18:30,p006,d003,Check-up & cleaning,in_person,4,completed,a0146,2026-09-23T04:30:00.000Z
+30,c001,2026-09-04,09:00,p004,d001,Check-up & cleaning,in_person,1,completed,a0147,2026-09-23T04:30:00.000Z
+30,c001,2026-09-04,16:30,p006,d002,Root canal sitting,procedure,2,completed,a0148,2026-09-23T04:30:00.000Z
+30,c001,2026-09-05,16:30,p011,d002,Root canal sitting,procedure,3,cancelled,a0149,2026-09-23T04:30:00.000Z
+30,c001,2026-09-05,12:30,p003,d002,Check-up & cleaning,in_person,4,completed,a0150,2026-09-23T04:30:00.000Z
+30,c001,2026-09-05,18:30,p005,d002,Filling,procedure,1,completed,a0151,2026-09-23T04:30:00.000Z
+30,c001,2026-09-05,15:00,p008,d001,Video consultation,video,3,completed,a0152,2026-09-23T04:30:00.000Z
+30,c001,2026-09-07,17:00,p012,d002,Crown fitting,procedure,1,no_show,a0153,2026-09-23T04:30:00.000Z
+30,c001,2026-09-07,15:00,p011,d002,Gum review,follow_up,1,no_show,a0154,2026-09-23T04:30:00.000Z
+30,c001,2026-09-07,15:30,p010,d001,Tooth pain,in_person,4,completed,a0155,2026-09-23T04:30:00.000Z
+30,c001,2026-09-07,11:00,p003,d002,Gum review,follow_up,3,completed,a0156,2026-09-23T04:30:00.000Z
+30,c001,2026-09-07,18:00,p005,d003,Gum review,follow_up,2,no_show,a0157,2026-09-23T04:30:00.000Z
+30,c001,2026-09-07,09:30,p009,d001,Check-up & cleaning,in_person,1,completed,a0158,2026-09-23T04:30:00.000Z
+30,c001,2026-09-07,16:30,p005,d002,Root canal sitting,procedure,2,completed,a0159,2026-09-23T04:30:00.000Z
+30,c001,2026-09-08,09:00,p004,d002,Gum review,follow_up,1,no_show,a0160,2026-09-23T04:30:00.000Z
+30,c001,2026-09-08,18:30,p009,d003,Tooth pain,in_person,3,completed,a0161,2026-09-23T04:30:00.000Z
+30,c001,2026-09-08,18:00,p007,d002,Crown fitting,procedure,3,completed,a0162,2026-09-23T04:30:00.000Z
+30,c001,2026-09-08,17:00,p004,d003,Filling,procedure,1,completed,a0163,2026-09-23T04:30:00.000Z
+30,c001,2026-09-09,18:00,p003,d002,Video consultation,video,3,completed,a0164,2026-09-23T04:30:00.000Z
+30,c001,2026-09-09,17:00,p011,d003,Check-up & cleaning,in_person,3,completed,a0165,2026-09-23T04:30:00.000Z
+30,c001,2026-09-09,18:30,p012,d002,Gum review,follow_up,3,completed,a0166,2026-09-23T04:30:00.000Z
+30,c001,2026-09-10,15:00,p003,d003,Check-up & cleaning,in_person,4,completed,a0167,2026-09-23T04:30:00.000Z
+30,c001,2026-09-10,10:00,p007,d002,Crown fitting,procedure,3,completed,a0168,2026-09-23T04:30:00.000Z
+30,c001,2026-09-10,12:30,p009,d003,Follow-up,follow_up,2,no_show,a0169,2026-09-23T04:30:00.000Z
+30,c001,2026-09-11,11:30,p005,d003,Root canal sitting,procedure,2,completed,a0170,2026-09-23T04:30:00.000Z
+30,c001,2026-09-11,10:00,p006,d002,Follow-up,follow_up,2,completed,a0171,2026-09-23T04:30:00.000Z
+30,c001,2026-09-11,15:30,p006,d002,Root canal sitting,procedure,4,cancelled,a0172,2026-09-23T04:30:00.000Z
+30,c001,2026-09-11,16:30,p008,d001,Filling,procedure,4,completed,a0173,2026-09-23T04:30:00.000Z
+30,c001,2026-09-11,09:00,p011,d003,Check-up & cleaning,in_person,4,completed,a0174,2026-09-23T04:30:00.000Z
+30,c001,2026-09-11,12:30,p010,d003,Follow-up,follow_up,2,completed,a0175,2026-09-23T04:30:00.000Z
+30,c001,2026-09-12,15:30,p008,d001,Video consultation,video,1,cancelled,a0176,2026-09-23T04:30:00.000Z
+30,c001,2026-09-12,17:00,p010,d002,Tooth pain,in_person,4,completed,a0177,2026-09-23T04:30:00.000Z
+30,c001,2026-09-12,11:00,p005,d001,Crown fitting,procedure,2,completed,a0178,2026-09-23T04:30:00.000Z
+30,c001,2026-09-12,15:00,p010,d001,Root canal sitting,procedure,4,completed,a0179,2026-09-23T04:30:00.000Z
+30,c001,2026-09-12,09:00,p007,d001,Crown fitting,procedure,4,completed,a0180,2026-09-23T04:30:00.000Z
+30,c001,2026-09-14,11:30,p005,d003,Filling,procedure,1,completed,a0181,2026-09-23T04:30:00.000Z
+30,c001,2026-09-14,09:00,p007,d003,Tooth pain,in_person,3,cancelled,a0182,2026-09-23T04:30:00.000Z
+30,c001,2026-09-14,09:30,p002,d002,Crown fitting,procedure,3,completed,a0183,2026-09-23T04:30:00.000Z
+30,c001,2026-09-14,11:30,p003,d002,Crown fitting,procedure,4,completed,a0184,2026-09-23T04:30:00.000Z
+30,c001,2026-09-14,09:30,p007,d001,Gum review,follow_up,1,completed,a0185,2026-09-23T04:30:00.000Z
+30,c001,2026-09-14,18:30,p010,d002,Tooth pain,in_person,3,completed,a0186,2026-09-23T04:30:00.000Z
+30,c001,2026-09-15,11:30,p005,d002,Tooth pain,in_person,4,completed,a0187,2026-09-23T04:30:00.000Z
+30,c001,2026-09-15,15:00,p012,d001,Crown fitting,procedure,1,completed,a0188,2026-09-23T04:30:00.000Z
+30,c001,2026-09-15,15:00,p007,d003,Tooth pain,in_person,4,completed,a0189,2026-09-23T04:30:00.000Z
+30,c001,2026-09-15,12:30,p012,d003,Crown fitting,procedure,2,completed,a0190,2026-09-23T04:30:00.000Z
+30,c001,2026-09-15,10:00,p009,d003,Gum review,follow_up,1,completed,a0191,2026-09-23T04:30:00.000Z
+30,c001,2026-09-16,15:00,p004,d003,Video consultation,video,2,completed,a0192,2026-09-23T04:30:00.000Z
+30,c001,2026-09-16,12:30,p003,d001,Check-up & cleaning,in_person,3,completed,a0193,2026-09-23T04:30:00.000Z
+30,c001,2026-09-16,11:00,p009,d001,Follow-up,follow_up,4,completed,a0194,2026-09-23T04:30:00.000Z
+30,c001,2026-09-16,11:30,p003,d003,Root canal sitting,procedure,1,completed,a0195,2026-09-23T04:30:00.000Z
+30,c001,2026-09-16,17:00,p005,d002,Follow-up,follow_up,1,completed,a0196,2026-09-23T04:30:00.000Z
+30,c001,2026-09-16,09:30,p011,d001,Gum review,follow_up,4,completed,a0197,2026-09-23T04:30:00.000Z
+30,c001,2026-09-17,12:30,p009,d001,Video consultation,video,3,completed,a0198,2026-09-23T04:30:00.000Z
+30,c001,2026-09-17,18:30,p003,d002,Filling,procedure,4,completed,a0199,2026-09-23T04:30:00.000Z
+30,c001,2026-09-17,17:00,p011,d001,Gum review,follow_up,4,completed,a0200,2026-09-23T04:30:00.000Z
+30,c001,2026-09-17,15:30,p008,d002,Root canal sitting,procedure,2,completed,a0201,2026-09-23T04:30:00.000Z
+30,c001,2026-09-17,12:30,p010,d002,Video consultation,video,3,completed,a0202,2026-09-23T04:30:00.000Z
+30,c001,2026-09-18,11:30,p007,d001,Video consultation,video,1,completed,a0203,2026-09-23T04:30:00.000Z
+30,c001,2026-09-18,18:30,p005,d002,Tooth pain,in_person,1,completed,a0204,2026-09-23T04:30:00.000Z
+30,c001,2026-09-18,18:30,p009,d003,Tooth pain,in_person,1,completed,a0205,2026-09-23T04:30:00.000Z
+30,c001,2026-09-18,15:00,p006,d003,Follow-up,follow_up,4,completed,a0206,2026-09-23T04:30:00.000Z
+30,c001,2026-09-18,18:30,p007,d001,Tooth pain,in_person,3,completed,a0207,2026-09-23T04:30:00.000Z
+30,c001,2026-09-18,15:00,p008,d002,Tooth pain,in_person,4,completed,a0208,2026-09-23T04:30:00.000Z
+30,c001,2026-09-19,15:00,p005,d001,Follow-up,follow_up,4,completed,a0209,2026-09-23T04:30:00.000Z
+30,c001,2026-09-19,15:00,p010,d003,Video consultation,video,4,completed,a0210,2026-09-23T04:30:00.000Z
+30,c001,2026-09-19,11:00,p011,d001,Root canal sitting,procedure,3,no_show,a0211,2026-09-23T04:30:00.000Z
+30,c001,2026-09-19,18:30,p006,d002,Tooth pain,in_person,2,completed,a0212,2026-09-23T04:30:00.000Z
+30,c001,2026-09-19,11:30,p005,d002,Filling,procedure,2,completed,a0213,2026-09-23T04:30:00.000Z
+30,c001,2026-09-21,11:30,p007,d002,Root canal sitting,procedure,3,completed,a0214,2026-09-23T04:30:00.000Z
+30,c001,2026-09-21,18:30,p009,d001,Check-up & cleaning,in_person,1,completed,a0215,2026-09-23T04:30:00.000Z
+30,c001,2026-09-21,12:30,p007,d003,Filling,procedure,1,completed,a0216,2026-09-23T04:30:00.000Z
+30,c001,2026-09-22,09:30,p006,d002,Gum review,follow_up,3,completed,a0217,2026-09-23T04:30:00.000Z
+30,c001,2026-09-22,15:30,p005,d002,Root canal sitting,procedure,2,no_show,a0218,2026-09-23T04:30:00.000Z
+30,c001,2026-09-22,11:00,p002,d002,Root canal sitting,procedure,4,completed,a0219,2026-09-23T04:30:00.000Z
+30,c001,2026-09-22,16:30,p009,d002,Filling,procedure,2,completed,a0220,2026-09-23T04:30:00.000Z
+30,c001,2026-09-22,18:30,p005,d001,Gum review,follow_up,1,completed,a0221,2026-09-23T04:30:00.000Z
+30,c001,2026-09-22,18:00,p007,d001,Root canal sitting,procedure,3,completed,a0222,2026-09-23T04:30:00.000Z
+30,c001,2026-09-23,17:00,p011,d002,Tooth pain,in_person,2,completed,a0223,2026-09-23T04:30:00.000Z
+30,c001,2026-09-23,15:00,p006,d002,Root canal sitting,procedure,4,completed,a0224,2026-09-23T04:30:00.000Z
+30,c001,2026-09-23,18:00,p011,d003,Video consultation,video,4,completed,a0225,2026-09-23T04:30:00.000Z
+30,c001,2026-09-23,10:00,p012,d001,Check-up & cleaning,in_person,2,no_show,a0226,2026-09-23T04:30:00.000Z
+30,c001,2026-09-23,11:30,p008,d001,Gum review,follow_up,1,completed,a0227,2026-09-23T04:30:00.000Z
+30,c001,2026-09-23,09:30,p011,d001,Gum review,follow_up,2,completed,a0228,2026-09-23T04:30:00.000Z
+30,c001,2026-09-24,17:00,p007,d001,Follow-up,follow_up,2,completed,a0229,2026-09-23T04:30:00.000Z
+30,c001,2026-09-24,16:30,p010,d002,Gum review,follow_up,2,completed,a0230,2026-09-23T04:30:00.000Z
+30,c001,2026-09-24,11:00,p009,d001,Tooth pain,in_person,3,completed,a0231,2026-09-23T04:30:00.000Z
+30,c001,2026-09-24,12:30,p009,d003,Tooth pain,in_person,1,completed,a0232,2026-09-23T04:30:00.000Z
+30,c001,2026-09-24,18:30,p012,d003,Follow-up,follow_up,1,completed,a0233,2026-09-23T04:30:00.000Z
+30,c001,2026-09-24,09:00,p008,d003,Tooth pain,in_person,4,completed,a0234,2026-09-23T04:30:00.000Z
+30,c001,2026-09-25,18:30,p003,d002,Follow-up,follow_up,1,completed,a0235,2026-09-23T04:30:00.000Z
+30,c001,2026-09-25,09:30,p004,d003,Check-up & cleaning,in_person,4,completed,a0236,2026-09-23T04:30:00.000Z
+30,c001,2026-09-25,11:30,p012,d002,Tooth pain,in_person,1,completed,a0237,2026-09-23T04:30:00.000Z
+30,c001,2026-09-25,15:00,p010,d002,Follow-up,follow_up,1,completed,a0238,2026-09-23T04:30:00.000Z
+30,c001,2026-09-26,09:30,p010,d001,Check-up & cleaning,in_person,1,completed,a0239,2026-09-23T04:30:00.000Z
+30,c001,2026-09-26,16:30,p005,d002,Check-up & cleaning,in_person,3,completed,a0240,2026-09-23T04:30:00.000Z
+30,c001,2026-09-26,11:00,p010,d003,Check-up & cleaning,in_person,1,completed,a0241,2026-09-23T04:30:00.000Z
+30,c001,2026-09-26,12:30,p011,d003,Filling,procedure,1,completed,a0242,2026-09-23T04:30:00.000Z
+30,c001,2026-09-28,10:00,p007,d001,Video consultation,video,2,completed,a0243,2026-09-23T04:30:00.000Z
+30,c001,2026-09-28,11:30,p009,d001,Video consultation,video,3,completed,a0244,2026-09-23T04:30:00.000Z
+30,c001,2026-09-28,11:30,p002,d002,Follow-up,follow_up,4,completed,a0245,2026-09-23T04:30:00.000Z
+30,c001,2026-09-28,09:30,p011,d003,Gum review,follow_up,3,completed,a0246,2026-09-23T04:30:00.000Z
+30,c001,2026-09-29,15:30,p007,d001,Root canal sitting,procedure,4,completed,a0247,2026-09-23T04:30:00.000Z
+30,c001,2026-09-29,16:30,p002,d003,Tooth pain,in_person,1,completed,a0248,2026-09-23T04:30:00.000Z
+30,c001,2026-09-29,17:00,p008,d003,Gum review,follow_up,1,cancelled,a0249,2026-09-23T04:30:00.000Z
+30,c001,2026-09-30,11:00,p010,d003,Video consultation,video,3,completed,a0250,2026-09-23T04:30:00.000Z
+30,c001,2026-09-30,18:30,p009,d003,Check-up & cleaning,in_person,1,cancelled,a0251,2026-09-23T04:30:00.000Z
+30,c001,2026-09-30,18:30,p009,d001,Check-up & cleaning,in_person,3,completed,a0252,2026-09-23T04:30:00.000Z
+30,c001,2026-09-30,17:00,p002,d001,Filling,procedure,2,completed,a0253,2026-09-23T04:30:00.000Z
+30,c001,2026-09-30,15:00,p012,d002,Gum review,follow_up,4,no_show,a0254,2026-09-23T04:30:00.000Z
+30,c001,2026-09-30,09:30,p004,d003,Crown fitting,procedure,2,no_show,a0255,2026-09-23T04:30:00.000Z
+30,c001,2026-10-01,10:00,p004,d003,Follow-up,follow_up,2,completed,a0256,2026-09-23T04:30:00.000Z
+30,c001,2026-10-01,18:00,p011,d003,Check-up & cleaning,in_person,3,completed,a0257,2026-09-23T04:30:00.000Z
+30,c001,2026-10-01,11:30,p010,d003,Follow-up,follow_up,3,completed,a0258,2026-09-23T04:30:00.000Z
+30,c001,2026-10-01,10:00,p005,d001,Filling,procedure,3,completed,a0259,2026-09-23T04:30:00.000Z
+30,c001,2026-10-01,18:30,p005,d002,Crown fitting,procedure,3,no_show,a0260,2026-09-23T04:30:00.000Z
+30,c001,2026-10-02,18:00,p004,d002,Check-up & cleaning,in_person,2,cancelled,a0261,2026-09-23T04:30:00.000Z
+30,c001,2026-10-02,11:30,p008,d002,Crown fitting,procedure,4,completed,a0262,2026-09-23T04:30:00.000Z
+30,c001,2026-10-02,09:00,p011,d001,Tooth pain,in_person,1,completed,a0263,2026-09-23T04:30:00.000Z
+30,c001,2026-10-02,16:30,p009,d001,Video consultation,video,3,completed,a0264,2026-09-23T04:30:00.000Z
+30,c001,2026-10-05,15:00,p009,d001,Tooth pain,in_person,2,scheduled,a0265,2026-09-23T04:30:00.000Z
+30,c001,2026-10-05,17:00,p003,d002,Follow-up,follow_up,2,confirmed,a0266,2026-09-23T04:30:00.000Z
+30,c001,2026-10-05,09:00,p009,d003,Check-up & cleaning,in_person,2,scheduled,a0267,2026-09-23T04:30:00.000Z
+30,c001,2026-10-05,09:30,p006,d002,Check-up & cleaning,in_person,2,scheduled,a0268,2026-09-23T04:30:00.000Z
+30,c001,2026-10-05,11:00,p003,d003,Root canal sitting,procedure,4,confirmed,a0269,2026-09-23T04:30:00.000Z
+30,c001,2026-10-05,17:00,p005,d003,Filling,procedure,4,confirmed,a0270,2026-09-23T04:30:00.000Z
+30,c001,2026-10-06,16:30,p010,d002,Video consultation,video,4,confirmed,a0271,2026-09-23T04:30:00.000Z
+30,c001,2026-10-06,09:30,p006,d002,Video consultation,video,3,scheduled,a0272,2026-09-23T04:30:00.000Z
+30,c001,2026-10-06,09:30,p004,d001,Check-up & cleaning,in_person,2,scheduled,a0273,2026-09-23T04:30:00.000Z
+30,c001,2026-10-06,17:00,p002,d001,Check-up & cleaning,in_person,1,confirmed,a0274,2026-09-23T04:30:00.000Z
+30,c001,2026-10-07,15:00,p004,d001,Filling,procedure,1,confirmed,a0275,2026-09-23T04:30:00.000Z
+30,c001,2026-10-07,18:30,p007,d001,Follow-up,follow_up,1,scheduled,a0276,2026-09-23T04:30:00.000Z
+30,c001,2026-10-08,09:30,p005,d002,Video consultation,video,2,confirmed,a0277,2026-09-23T04:30:00.000Z
+30,c001,2026-10-08,15:30,p011,d003,Video consultation,video,4,confirmed,a0278,2026-09-23T04:30:00.000Z
+30,c001,2026-10-08,18:00,p011,d001,Root canal sitting,procedure,3,scheduled,a0279,2026-09-23T04:30:00.000Z
+30,c001,2026-10-08,15:30,p003,d001,Gum review,follow_up,1,scheduled,a0280,2026-09-23T04:30:00.000Z
+30,c001,2026-10-08,15:00,p008,d003,Filling,procedure,2,confirmed,a0281,2026-09-23T04:30:00.000Z
+30,c001,2026-10-08,11:30,p007,d003,Tooth pain,in_person,2,confirmed,a0282,2026-09-23T04:30:00.000Z
+30,c001,2026-10-09,17:00,p009,d003,Filling,procedure,4,confirmed,a0283,2026-09-23T04:30:00.000Z
+30,c001,2026-10-09,09:00,p005,d002,Root canal sitting,procedure,1,scheduled,a0284,2026-09-23T04:30:00.000Z
+30,c001,2026-10-09,16:30,p012,d003,Gum review,follow_up,3,scheduled,a0285,2026-09-23T04:30:00.000Z
+30,c001,2026-10-10,16:30,p010,d003,Filling,procedure,3,scheduled,a0286,2026-09-23T04:30:00.000Z
+30,c001,2026-10-10,11:00,p003,d001,Video consultation,video,4,confirmed,a0287,2026-09-23T04:30:00.000Z
+30,c001,2026-10-10,16:30,p011,d001,Video consultation,video,3,confirmed,a0288,2026-09-23T04:30:00.000Z
+30,c001,2026-10-10,18:00,p006,d003,Check-up & cleaning,in_person,2,scheduled,a0289,2026-09-23T04:30:00.000Z
+30,c001,2026-10-12,12:30,p009,d002,Video consultation,video,2,scheduled,a0290,2026-09-23T04:30:00.000Z
+30,c001,2026-10-12,09:30,p010,d001,Follow-up,follow_up,3,confirmed,a0291,2026-09-23T04:30:00.000Z
+30,c001,2026-10-12,09:00,p008,d002,Tooth pain,in_person,3,scheduled,a0292,2026-09-23T04:30:00.000Z
+30,c001,2026-10-12,09:30,p009,d002,Check-up & cleaning,in_person,4,confirmed,a0293,2026-09-23T04:30:00.000Z
+30,c001,2026-10-13,16:30,p002,d001,Check-up & cleaning,in_person,2,scheduled,a0294,2026-09-23T04:30:00.000Z
+30,c001,2026-10-13,10:00,p012,d003,Filling,procedure,2,confirmed,a0295,2026-09-23T04:30:00.000Z
+30,c001,2026-10-13,15:30,p008,d003,Root canal sitting,procedure,3,scheduled,a0296,2026-09-23T04:30:00.000Z
+30,c001,2026-10-13,17:00,p007,d001,Tooth pain,in_person,4,scheduled,a0297,2026-09-23T04:30:00.000Z
+30,c001,2026-10-13,18:00,p011,d002,Filling,procedure,1,confirmed,a0298,2026-09-23T04:30:00.000Z
+30,c001,2026-10-13,09:30,p012,d002,Check-up & cleaning,in_person,3,confirmed,a0299,2026-09-23T04:30:00.000Z
+30,c001,2026-10-14,10:00,p002,d002,Tooth pain,in_person,4,confirmed,a0300,2026-09-23T04:30:00.000Z
+30,c001,2026-10-14,12:30,p007,d001,Tooth pain,in_person,1,confirmed,a0301,2026-09-23T04:30:00.000Z
+30,c001,2026-10-14,15:30,p003,d003,Root canal sitting,procedure,1,scheduled,a0302,2026-09-23T04:30:00.000Z
+30,c001,2026-10-14,15:30,p003,d001,Video consultation,video,2,scheduled,a0303,2026-09-23T04:30:00.000Z
+30,c001,2026-10-14,16:30,p003,d002,Gum review,follow_up,4,confirmed,a0304,2026-09-23T04:30:00.000Z
+30,c001,2026-10-14,11:30,p005,d003,Follow-up,follow_up,2,scheduled,a0305,2026-09-23T04:30:00.000Z
+30,c001,2026-10-14,12:30,p012,d003,Filling,procedure,4,confirmed,a0306,2026-09-23T04:30:00.000Z
+30,c001,2026-10-15,11:00,p003,d003,Tooth pain,in_person,1,confirmed,a0307,2026-09-23T04:30:00.000Z
+30,c001,2026-10-15,18:00,p004,d002,Root canal sitting,procedure,3,scheduled,a0308,2026-09-23T04:30:00.000Z
+30,c001,2026-10-15,12:30,p010,d001,Follow-up,follow_up,4,scheduled,a0309,2026-09-23T04:30:00.000Z
+30,c001,2026-10-15,17:00,p011,d003,Crown fitting,procedure,2,scheduled,a0310,2026-09-23T04:30:00.000Z
+30,c001,2026-10-15,15:30,p010,d003,Crown fitting,procedure,3,confirmed,a0311,2026-09-23T04:30:00.000Z
+30,c001,2026-10-15,10:00,p006,d003,Gum review,follow_up,1,scheduled,a0312,2026-09-23T04:30:00.000Z
+30,c001,2026-10-15,09:30,p003,d002,Gum review,follow_up,4,scheduled,a0313,2026-09-23T04:30:00.000Z
+30,c001,2026-10-16,11:30,p004,d001,Tooth pain,in_person,2,scheduled,a0314,2026-09-23T04:30:00.000Z
+30,c001,2026-10-16,17:00,p004,d002,Tooth pain,in_person,2,scheduled,a0315,2026-09-23T04:30:00.000Z
+30,c001,2026-10-16,11:00,p004,d002,Video consultation,video,4,scheduled,a0316,2026-09-23T04:30:00.000Z
+30,c001,2026-10-16,16:30,p010,d001,Gum review,follow_up,1,scheduled,a0317,2026-09-23T04:30:00.000Z
+30,c001,2026-10-16,10:00,p010,d003,Video consultation,video,3,scheduled,a0318,2026-09-23T04:30:00.000Z
+30,c001,2026-10-16,18:30,p010,d002,Filling,procedure,3,confirmed,a0319,2026-09-23T04:30:00.000Z
+30,c001,2026-10-16,11:30,p010,d002,Follow-up,follow_up,4,confirmed,a0320,2026-09-23T04:30:00.000Z
+30,c001,2026-10-17,18:30,p007,d002,Gum review,follow_up,3,confirmed,a0321,2026-09-23T04:30:00.000Z
+30,c001,2026-10-17,11:00,p012,d002,Gum review,follow_up,2,scheduled,a0322,2026-09-23T04:30:00.000Z
+30,c001,2026-10-17,15:00,p007,d002,Check-up & cleaning,in_person,2,confirmed,a0323,2026-09-23T04:30:00.000Z
+30,c001,2026-10-17,12:30,p006,d002,Crown fitting,procedure,3,confirmed,a0324,2026-09-23T04:30:00.000Z
+30,c002,2026-10-05,10:30,p012,d004,Consultation,in_person,1,confirmed,a0325,2026-09-23T04:30:00.000Z
+30,c002,2026-10-06,10:30,p012,d004,Consultation,in_person,1,confirmed,a0326,2026-09-23T04:30:00.000Z
+30,c002,2026-10-05,10:30,p012,d005,Consultation,in_person,1,confirmed,a0327,2026-09-23T04:30:00.000Z
+30,c002,2026-10-06,10:30,p012,d005,Consultation,in_person,1,confirmed,a0328,2026-09-23T04:30:00.000Z
+30,c007,2026-10-05,10:30,p012,d006,Consultation,in_person,1,confirmed,a0329,2026-09-23T04:30:00.000Z
+30,c007,2026-10-06,10:30,p012,d006,Consultation,in_person,1,confirmed,a0330,2026-09-23T04:30:00.000Z

@@ -1,0 +1,10 @@
+id,author_id,title,specialty,duration,views,likes,created_at
+rl01,d004,Aligner day 1 vs day 180,Orthodontics,42,13973,5296,2026-10-02T04:30:00.000Z
+rl02,d002,What happens in a root canal (in 30s),Conservative Dentistry & Endodontics,31,62746,396,2026-10-01T04:30:00.000Z
+rl03,d003,The right way to floss,Periodontics,28,42539,701,2026-09-30T04:30:00.000Z
+rl04,d006,Making the first visit fun,Pediatric Dentistry,36,58089,3271,2026-09-29T04:30:00.000Z
+rl05,d001,How an implant is placed,Prosthodontics,55,11889,552,2026-09-28T04:30:00.000Z
+rl06,d009,Veneer smile makeover,Prosthodontics,47,37479,5416,2026-09-27T04:30:00.000Z
+rl07,d005,Wisdom tooth recovery tips,Oral Surgery,39,88160,3841,2026-09-26T04:30:00.000Z
+rl08,d010,Electric vs manual brush,Periodontics,33,89353,754,2026-09-25T04:30:00.000Z
+rl09,d011,Self-check for mouth cancer,Oral Medicine,44,38200,1004,2026-09-24T04:30:00.000Z

@@ -1,0 +1,32 @@
+id,patient_id,appointment_id,treatment_id,record_type,title,description,file_url,date,doctor,clinic,visibility
+r001,p001,,t003,diagnosis_note,Periodontal examination,Generalised mild gingivitis. BOP 18%. No pockets > 3 mm.,,2026-06-05,Dr. Rohan Iyer,SmileCare Dental Studio,shared
+r002,p001,,t003,treatment,Scaling & polishing,Full-mouth ultrasonic scaling and polishing. Advised soft brush and interdental cleaning.,,2026-06-05,Dr. Rohan Iyer,SmileCare Dental Studio,shared
+r003,p001,,t001,diagnosis_note,Sensitivity assessment — 26,"Sharp, short pain to cold on 26. Disto-occlusal caries on bitewing. Pulp vital.",,2026-09-03,Dr. Neha Kulkarni,SmileCare Dental Studio,shared
+r004,p001,,t001,xray,Bitewing X-ray — left side,Radiolucency at distal of 26 approaching but not involving pulp.,,2026-09-03,Dr. Neha Kulkarni,SmileCare Dental Studio,shared
+r005,p001,,t001,treatment,Composite restoration — 26,Class II composite under rubber dam. Occlusion checked.,,2026-09-03,Dr. Neha Kulkarni,SmileCare Dental Studio,shared
+r006,p001,,t001,prescription,Prescription,Desensitising toothpaste (potassium nitrate) twice daily for 4 weeks.,,2026-09-03,Dr. Neha Kulkarni,SmileCare Dental Studio,shared
+r007,p001,,t001,invoice,Invoice INV-1001,"Composite restoration ₹3,500 — paid by UPI.",,2026-09-03,Dr. Neha Kulkarni,SmileCare Dental Studio,shared
+r008,p001,,t002,xray,OPG — full mouth,Missing 36 with adequate vertical bone height on 2D. CBCT advised for implant planning.,,2026-09-03,Dr. Neha Kulkarni,SmileCare Dental Studio,shared
+r009,p001,,t001,treatment,Review — 26,Sensitivity resolved. Restoration intact.,,2026-09-17,Dr. Neha Kulkarni,SmileCare Dental Studio,shared
+r100a,p002,,t004,diagnosis_note,Root canal treatment — assessment,Irreversible pulpitis. Access + BMP done.,,2026-09-25,Dr. Neha Kulkarni,SmileCare Dental Studio,shared
+r100b,p002,,t004,xray,IOPA X-ray — 36,Uploaded at chairside.,,2026-09-25,Dr. Neha Kulkarni,SmileCare Dental Studio,shared
+r101a,p003,,t005,diagnosis_note,Scaling & root planing — assessment,Stage II periodontitis. Quadrants 1–2 complete.,,2026-09-19,Dr. Rohan Iyer,SmileCare Dental Studio,shared
+r101b,p003,,t005,photo,Intraoral photographs,Uploaded at chairside.,,2026-09-19,Dr. Rohan Iyer,SmileCare Dental Studio,shared
+r102a,p004,,t006,diagnosis_note,Professional cleaning — assessment,HbA1c reviewed with patient.,,2026-09-28,Dr. Rohan Iyer,SmileCare Dental Studio,shared
+r102b,p004,,t006,xray,IOPA X-ray — Full mouth,Uploaded at chairside.,,2026-09-28,Dr. Rohan Iyer,SmileCare Dental Studio,shared
+r103a,p005,,t007,diagnosis_note,Complete dentures — assessment,Severely resorbed mandibular ridge. On bisphosphonates — no surgical option planned.,,2026-09-12,Dr. Arjun Mehta,SmileCare Dental Studio,shared
+r103b,p005,,t007,photo,Intraoral photographs,Uploaded at chairside.,,2026-09-12,Dr. Arjun Mehta,SmileCare Dental Studio,shared
+r104a,p006,,t008,diagnosis_note,Zirconia crown — assessment,Post-RCT crown.,,2026-08-24,Dr. Arjun Mehta,SmileCare Dental Studio,shared
+r104b,p006,,t008,xray,IOPA X-ray — 46,Uploaded at chairside.,,2026-08-24,Dr. Arjun Mehta,SmileCare Dental Studio,shared
+r105a,p007,,t009,diagnosis_note,Teeth whitening — assessment,"In-office whitening, 2 shades lighter.",,2026-09-15,Dr. Neha Kulkarni,SmileCare Dental Studio,shared
+r105b,p007,,t009,photo,Intraoral photographs,Uploaded at chairside.,,2026-09-15,Dr. Neha Kulkarni,SmileCare Dental Studio,shared
+r106a,p008,,t010,diagnosis_note,Implant — assessment,Good primary stability (35 Ncm). Osseointegration phase.,,2026-07-20,Dr. Arjun Mehta,SmileCare Dental Studio,shared
+r106b,p008,,t010,xray,IOPA X-ray — 46,Uploaded at chairside.,,2026-07-20,Dr. Arjun Mehta,SmileCare Dental Studio,shared
+r107a,p009,,t011,diagnosis_note,Flap surgery — assessment,Persistent 6 mm pockets after SRP.,,2026-09-30,Dr. Rohan Iyer,SmileCare Dental Studio,shared
+r107b,p009,,t011,photo,Intraoral photographs,Uploaded at chairside.,,2026-09-30,Dr. Rohan Iyer,SmileCare Dental Studio,shared
+r108a,p010,,t012,diagnosis_note,Pit & fissure sealants — assessment,Excellent cooperation.,,2026-09-08,Dr. Neha Kulkarni,SmileCare Dental Studio,shared
+r108b,p010,,t012,xray,"IOPA X-ray — 16, 26, 36, 46",Uploaded at chairside.,,2026-09-08,Dr. Neha Kulkarni,SmileCare Dental Studio,shared
+r109a,p011,,t013,diagnosis_note,Root canal + crown — assessment,"Trauma history. RCT complete, crown pending.",,2026-09-24,Dr. Neha Kulkarni,SmileCare Dental Studio,shared
+r109b,p011,,t013,photo,Intraoral photographs,Uploaded at chairside.,,2026-09-24,Dr. Neha Kulkarni,SmileCare Dental Studio,shared
+r110a,p012,,t014,diagnosis_note,Extraction — assessment,Uneventful. Post-op instructions given.,,2026-09-30,Dr. Neha Kulkarni,SmileCare Dental Studio,shared
+r110b,p012,,t014,xray,IOPA X-ray — 38,Uploaded at chairside.,,2026-09-30,Dr. Neha Kulkarni,SmileCare Dental Studio,shared

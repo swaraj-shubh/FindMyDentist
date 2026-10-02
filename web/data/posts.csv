@@ -1,0 +1,29 @@
+id,author_id,author_type,title,caption,body,content_type,media_url,specialty,tags_json,likes,liked_by_json,comments,poll_options_json,created_at
+po01,d004,dentist,3 things to know before braces,Thinking about braces or aligners? Start here.,"1. Your gums need to be healthy first — orthodontic forces on inflamed gums can cause bone loss.
+2. Retainers are forever. Teeth have memory and will try to drift back.
+3. Aligners only work if you wear them 20–22 hours a day.
+
+Book a consultation to find out which option suits your bite.",image,,Orthodontics,"[""braces"",""aligners"",""orthodontics""]",342,[],3,[],2026-10-02T14:55:46.237Z
+po02,d002,dentist,Is tooth sensitivity normal?,That zing when you drink something cold — what it means.,"Short, sharp pain to cold usually comes from exposed dentine — from gum recession, enamel wear or a small cavity. Desensitising toothpaste helps many people within weeks.
+
+See a dentist if the pain lingers after the cold is gone, wakes you up at night, or is getting worse — these can be signs the nerve is involved.",article,,Conservative Dentistry & Endodontics,"[""sensitivity"",""tooth pain""]",518,[],2,[],2026-10-01T23:55:46.237Z
+po03,d001,dentist,Implants vs bridges: which is right for you?,Replacing a missing tooth? Here's the honest comparison.,"A bridge uses the neighbouring teeth as anchors — which means preparing (cutting) them. An implant replaces the root itself and leaves neighbours untouched, and it helps keep the jawbone from shrinking.
+
+Implants take longer (3–6 months) and need enough healthy bone. Bridges are quicker. Your gum health, bone, budget and medical history all shape the right choice.",article,,Prosthodontics,"[""implants"",""bridges"",""missing tooth""]",276,[],2,[],2026-10-01T13:55:46.237Z
+po04,d003,dentist,Why do my gums bleed when I brush?,Bleeding gums are not normal — but they are very fixable.,"Bleeding is usually the first sign of gingivitis — inflammation caused by plaque along the gumline. The fix is counter-intuitive: keep brushing gently, and clean between teeth daily.
+
+If bleeding continues beyond two weeks of good cleaning, or your gums are receding, get a periodontal check-up.",video,,Periodontics,"[""gums"",""bleeding gums""]",401,[],1,[],2026-09-30T23:55:46.237Z
+po05,d006,dentist,Your child's first dental visit,"When to go, and how to make it fun.","The first visit should happen by the first birthday or within six months of the first tooth. Early visits are short — mostly a lap exam and advice for parents.
+
+Tip: avoid words like 'hurt' or 'injection'. Let the dentist introduce the tools as 'tooth counters' and 'tooth tickler'.",image,,Pediatric Dentistry,"[""kids"",""first visit""]",623,[],1,[],2026-09-30T07:55:46.237Z
+po06,d010,dentist,How often do you change your toothbrush?,Quick poll — be honest!,"Dentists recommend every 3 months, or sooner if the bristles are frayed.",poll,,Periodontics,"[""toothbrush"",""habits""]",188,[],0,"[{""label"":""Every 3 months"",""votes"":214},{""label"":""Every 6 months"",""votes"":162},{""label"":""When it looks worn out"",""votes"":305},{""label"":""Wait, we change them?"",""votes"":48}]",2026-09-29T19:55:46.237Z
+po07,d005,dentist,Wisdom teeth: remove or keep?,Not every wisdom tooth needs to come out.,"Healthy, fully erupted wisdom teeth that you can clean don't need removal. Partially erupted or impacted teeth that cause repeated swelling (pericoronitis), decay in the neighbouring tooth, or cysts usually do.
+
+An OPG X-ray helps your surgeon judge the risk to the nerve before surgery.",article,,Oral Surgery,"[""wisdom tooth"",""extraction""]",355,[],0,[],2026-09-29T01:55:46.237Z
+po08,d009,dentist,"Whitening myths, busted","Charcoal, lemon and baking soda — please stop.","Abrasive 'natural' whiteners scratch enamel and make teeth look more yellow over time as dentine shows through. Professional whitening uses controlled peroxide gels that are safe when supervised.
+
+Whitening doesn't change the colour of crowns or fillings — plan replacements after whitening.",video,,Prosthodontics,"[""whitening"",""cosmetic""]",467,[],0,[],2026-09-28T05:55:46.237Z
+po09,d011,dentist,A mouth ulcer that won't heal,When should an ulcer worry you?,"Most ulcers heal in 7–14 days. An ulcer, red patch or white patch that hasn't healed in two weeks — especially if you use tobacco — needs an examination. Early diagnosis of oral cancer saves lives, and the check is quick and painless.",article,,Oral Medicine,"[""ulcers"",""oral cancer screening""]",512,[],0,[],2026-09-27T09:55:46.237Z
+po10,d001,dentist,Grinding your teeth at night?,Signs of bruxism and how a night guard helps.,"Morning jaw ache, headaches and flattened or chipped teeth are classic signs. A custom night guard protects teeth and restorations; managing stress and sleep quality matters too.",image,,Prosthodontics,"[""bruxism"",""night guard""]",233,[],0,[],2026-09-26T03:55:46.237Z
+po11,d012,dentist,Root canal isn't as scary as it sounds,Modern root canals feel like a long filling.,"With good anaesthesia and rotary instruments, most root canals are completed in one or two comfortable sittings. The alternative — extraction — often costs more in the long run once the gap needs replacing.",article,,Conservative Dentistry & Endodontics,"[""root canal"",""tooth pain""]",298,[],0,[],2026-09-24T21:55:46.237Z
+po12,d014,dentist,Thumb sucking: when to step in,Most kids stop on their own — here's when to help.,"Thumb sucking is normal in toddlers. If it continues past age 4–5, it can push front teeth forward and affect the bite. Positive reinforcement works better than punishment; a paediatric dentist can suggest habit-breaking aids.",image,,Pediatric Dentistry,"[""kids"",""habits""]",205,[],0,[],2026-09-23T15:55:46.237Z

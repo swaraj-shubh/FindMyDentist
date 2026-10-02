@@ -1,0 +1,18 @@
+id,name,email,role,avatar,city,specialty,clinic_id,level,onboarded
+u001,Ananya Rao,ananya@example.com,patient,,Bengaluru,,,,true
+u002,Dr. Arjun Mehta,arjun@example.com,dentist,,Bengaluru,Prosthodontics,c001,,true
+u003,Priya Sharma,priya@example.com,student,,Bengaluru,Prosthodontics,,MDS,true
+u004,Kavya Nair,kavya@example.com,clinic,,Bengaluru,,c001,,true
+u101,Dr. Neha Kulkarni,dr-neha-kulkarni@example.com,dentist,,Bengaluru,Conservative Dentistry & Endodontics,c001,,true
+u102,Dr. Rohan Iyer,dr-rohan-iyer@example.com,dentist,,Bengaluru,Periodontics,c001,,true
+u103,Dr. Sana Qureshi,dr-sana-qureshi@example.com,dentist,,Bengaluru,Orthodontics,c002,,true
+u104,Dr. Vikram Reddy,dr-vikram-reddy@example.com,dentist,,Bengaluru,Oral Surgery,c002,,true
+u105,Dr. Meera Pillai,dr-meera-pillai@example.com,dentist,,Bengaluru,Pediatric Dentistry,c007,,true
+u106,Dr. Karthik Rao,dr-karthik-rao@example.com,dentist,,Hyderabad,Orthodontics,c003,,true
+u107,Dr. Lakshmi Varma,dr-lakshmi-varma@example.com,dentist,,Hyderabad,Conservative Dentistry & Endodontics,c003,,true
+u108,Dr. Farhan Shaikh,dr-farhan-shaikh@example.com,dentist,,Mumbai,Prosthodontics,c004,,true
+u109,Dr. Isha Desai,dr-isha-desai@example.com,dentist,,Mumbai,Periodontics,c004,,true
+u110,Dr. Arvind Subramanian,dr-arvind-subramanian@example.com,dentist,,Chennai,Oral Medicine,c005,,true
+u111,Dr. Divya Krishnan,dr-divya-krishnan@example.com,dentist,,Chennai,Conservative Dentistry & Endodontics,c005,,true
+u112,Dr. Aditya Malhotra,dr-aditya-malhotra@example.com,dentist,,Delhi,Oral Surgery,c006,,true
+u113,Dr. Ritu Bansal,dr-ritu-bansal@example.com,dentist,,Delhi,Pediatric Dentistry,c006,,true

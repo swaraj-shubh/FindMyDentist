@@ -1,0 +1,8 @@
+id,title,source_type,publisher,year,url,doi,specialty,topic,license_status
+src1,Guyton and Hall Textbook of Medical Physiology,textbook,Elsevier,2020,,,Oral Medicine,Calcium homeostasis,metadata only
+src2,Prosthodontic Treatment for Edentulous Patients (Zarb et al.),textbook,Elsevier,2012,,,Prosthodontics,Complete dentures,metadata only
+src3,Lindhe's Clinical Periodontology and Implant Dentistry,textbook,Wiley,2015,,,Periodontics,Periodontology,metadata only
+src4,Misch's Contemporary Implant Dentistry,textbook,Elsevier,2020,,,Prosthodontics,Implant dentistry,metadata only
+src5,AAOMS Position Paper on MRONJ — 2022 Update,guideline,AAOMS,2022,,,Oral Surgery,MRONJ,metadata only
+src6,ICMR-NIN Nutrient Requirements for Indians,guideline,ICMR-NIN,2020,,,Public Health Dentistry,Nutrition,metadata only
+src7,FMD Specialty Ontology v0,fmd_content,FMD,2026,,,Prosthodontics,Specialty intelligence,owned

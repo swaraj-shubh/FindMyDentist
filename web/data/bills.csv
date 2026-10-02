@@ -1,0 +1,190 @@
+id,patient_id,clinic_id,appointment_id,invoice_number,items_json,subtotal,discount,tax,total,status,date,paid_at,payment_method
+b1001,p001,c001,a0013,INV-1001,"[{""description"":""Composite restoration — 26"",""qty"":1,""price"":3500}]",3500,0,0,3500,paid,2026-09-03,2026-09-03T18:00:00,Cash
+b1002,p002,c001,a0001,INV-1002,"[{""description"":""Root canal — second sitting"",""qty"":1,""price"":4500}]",4500,200,0,4300,paid,2026-10-03,2026-10-03T18:00:00,UPI
+b1003,p004,c001,a0002,INV-1003,"[{""description"":""Diabetes gum review"",""qty"":1,""price"":800},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",1100,0,0,1100,paid,2026-10-03,2026-10-03T18:00:00,Cash
+b1004,p011,c001,a0015,INV-1004,"[{""description"":""Tooth pain"",""qty"":1,""price"":800}]",800,0,0,800,paid,2026-08-04,2026-08-04T18:00:00,Cash
+b1005,p003,c001,a0016,INV-1005,"[{""description"":""Filling"",""qty"":1,""price"":2500}]",2500,0,0,2500,paid,2026-08-04,2026-08-04T18:00:00,Card
+b1006,p006,c001,a0017,INV-1006,"[{""description"":""Filling"",""qty"":1,""price"":2500}]",2500,0,0,2500,paid,2026-08-04,2026-08-04T18:00:00,Card
+b1007,p003,c001,a0018,INV-1007,"[{""description"":""Video consultation"",""qty"":1,""price"":500}]",500,0,0,500,paid,2026-08-04,2026-08-04T18:00:00,Card
+b1008,p008,c001,a0020,INV-1008,"[{""description"":""Filling"",""qty"":1,""price"":2500}]",2500,0,0,2500,paid,2026-08-05,2026-08-05T18:00:00,UPI
+b1009,p006,c001,a0021,INV-1009,"[{""description"":""Tooth pain"",""qty"":1,""price"":800}]",800,0,0,800,paid,2026-08-05,2026-08-05T18:00:00,UPI
+b1010,p012,c001,a0022,INV-1010,"[{""description"":""Video consultation"",""qty"":1,""price"":500}]",500,0,0,500,paid,2026-08-05,2026-08-05T18:00:00,Card
+b1011,p007,c001,a0024,INV-1011,"[{""description"":""Check-up & cleaning"",""qty"":1,""price"":1500}]",1500,0,0,1500,paid,2026-08-06,2026-08-06T18:00:00,Cash
+b1012,p009,c001,a0025,INV-1012,"[{""description"":""Crown fitting"",""qty"":1,""price"":9000}]",9000,0,0,9000,paid,2026-08-06,2026-08-06T18:00:00,UPI
+b1013,p010,c001,a0028,INV-1013,"[{""description"":""Crown fitting"",""qty"":1,""price"":9000}]",9000,0,0,9000,paid,2026-08-07,2026-08-07T18:00:00,Card
+b1014,p008,c001,a0029,INV-1014,"[{""description"":""Root canal sitting"",""qty"":1,""price"":4500},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",4800,0,0,4800,paid,2026-08-07,2026-08-07T18:00:00,UPI
+b1015,p003,c001,a0030,INV-1015,"[{""description"":""Check-up & cleaning"",""qty"":1,""price"":1500}]",1500,200,0,1300,paid,2026-08-07,2026-08-07T18:00:00,UPI
+b1016,p005,c001,a0033,INV-1016,"[{""description"":""Tooth pain"",""qty"":1,""price"":800}]",800,0,0,800,paid,2026-08-08,2026-08-08T18:00:00,Card
+b1017,p009,c001,a0034,INV-1017,"[{""description"":""Gum review"",""qty"":1,""price"":700}]",700,0,0,700,paid,2026-08-08,2026-08-08T18:00:00,Card
+b1018,p009,c001,a0035,INV-1018,"[{""description"":""Crown fitting"",""qty"":1,""price"":9000}]",9000,200,0,8800,paid,2026-08-08,2026-08-08T18:00:00,UPI
+b1019,p011,c001,a0037,INV-1019,"[{""description"":""Filling"",""qty"":1,""price"":2500}]",2500,200,0,2300,paid,2026-08-08,2026-08-08T18:00:00,Cash
+b1020,p007,c001,a0038,INV-1020,"[{""description"":""Crown fitting"",""qty"":1,""price"":9000}]",9000,0,0,9000,paid,2026-08-10,2026-08-10T18:00:00,Cash
+b1021,p012,c001,a0039,INV-1021,"[{""description"":""Tooth pain"",""qty"":1,""price"":800},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",1100,200,0,900,paid,2026-08-10,2026-08-10T18:00:00,UPI
+b1022,p011,c001,a0041,INV-1022,"[{""description"":""Crown fitting"",""qty"":1,""price"":9000},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",9300,200,0,9100,paid,2026-08-10,2026-08-10T18:00:00,Card
+b1023,p008,c001,a0042,INV-1023,"[{""description"":""Tooth pain"",""qty"":1,""price"":800},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",1100,0,0,1100,paid,2026-08-11,2026-08-11T18:00:00,UPI
+b1024,p009,c001,a0043,INV-1024,"[{""description"":""Tooth pain"",""qty"":1,""price"":800}]",800,0,0,800,paid,2026-08-11,2026-08-11T18:00:00,Card
+b1025,p008,c001,a0045,INV-1025,"[{""description"":""Root canal sitting"",""qty"":1,""price"":4500}]",4500,0,0,4500,paid,2026-08-11,2026-08-11T18:00:00,UPI
+b1026,p010,c001,a0047,INV-1026,"[{""description"":""Filling"",""qty"":1,""price"":2500},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",2800,200,0,2600,paid,2026-08-12,2026-08-12T18:00:00,UPI
+b1027,p012,c001,a0050,INV-1027,"[{""description"":""Tooth pain"",""qty"":1,""price"":800}]",800,0,0,800,paid,2026-08-12,2026-08-12T18:00:00,Card
+b1028,p007,c001,a0051,INV-1028,"[{""description"":""Tooth pain"",""qty"":1,""price"":800}]",800,0,0,800,paid,2026-08-13,2026-08-13T18:00:00,UPI
+b1029,p011,c001,a0054,INV-1029,"[{""description"":""Check-up & cleaning"",""qty"":1,""price"":1500}]",1500,0,0,1500,paid,2026-08-13,2026-08-13T18:00:00,UPI
+b1030,p003,c001,a0055,INV-1030,"[{""description"":""Gum review"",""qty"":1,""price"":700},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",1000,0,0,1000,paid,2026-08-13,2026-08-13T18:00:00,UPI
+b1031,p010,c001,a0056,INV-1031,"[{""description"":""Check-up & cleaning"",""qty"":1,""price"":1500}]",1500,200,0,1300,paid,2026-08-14,2026-08-14T18:00:00,Cash
+b1032,p007,c001,a0057,INV-1032,"[{""description"":""Gum review"",""qty"":1,""price"":700},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",1000,0,0,1000,paid,2026-08-14,2026-08-14T18:00:00,Cash
+b1033,p004,c001,a0058,INV-1033,"[{""description"":""Tooth pain"",""qty"":1,""price"":800}]",800,0,0,800,paid,2026-08-14,2026-08-14T18:00:00,Cash
+b1034,p012,c001,a0059,INV-1034,"[{""description"":""Filling"",""qty"":1,""price"":2500},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",2800,0,0,2800,paid,2026-08-14,2026-08-14T18:00:00,UPI
+b1035,p010,c001,a0061,INV-1035,"[{""description"":""Tooth pain"",""qty"":1,""price"":800}]",800,200,0,600,paid,2026-08-15,2026-08-15T18:00:00,Cash
+b1036,p006,c001,a0062,INV-1036,"[{""description"":""Tooth pain"",""qty"":1,""price"":800}]",800,0,0,800,paid,2026-08-15,2026-08-15T18:00:00,Card
+b1037,p010,c001,a0065,INV-1037,"[{""description"":""Check-up & cleaning"",""qty"":1,""price"":1500}]",1500,0,0,1500,paid,2026-08-17,2026-08-17T18:00:00,Cash
+b1038,p010,c001,a0066,INV-1038,"[{""description"":""Video consultation"",""qty"":1,""price"":500}]",500,0,0,500,paid,2026-08-17,2026-08-17T18:00:00,Cash
+b1039,p011,c001,a0067,INV-1039,"[{""description"":""Root canal sitting"",""qty"":1,""price"":4500},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",4800,0,0,4800,paid,2026-08-17,2026-08-17T18:00:00,Cash
+b1040,p002,c001,a0068,INV-1040,"[{""description"":""Root canal sitting"",""qty"":1,""price"":4500}]",4500,0,0,4500,paid,2026-08-17,2026-08-17T18:00:00,Cash
+b1041,p011,c001,a0069,INV-1041,"[{""description"":""Video consultation"",""qty"":1,""price"":500}]",500,0,0,500,paid,2026-08-17,2026-08-17T18:00:00,Cash
+b1042,p011,c001,a0071,INV-1042,"[{""description"":""Gum review"",""qty"":1,""price"":700}]",700,0,0,700,paid,2026-08-18,2026-08-18T18:00:00,Cash
+b1043,p005,c001,a0072,INV-1043,"[{""description"":""Tooth pain"",""qty"":1,""price"":800}]",800,0,0,800,paid,2026-08-18,2026-08-18T18:00:00,Cash
+b1044,p008,c001,a0073,INV-1044,"[{""description"":""Check-up & cleaning"",""qty"":1,""price"":1500}]",1500,0,0,1500,paid,2026-08-18,2026-08-18T18:00:00,UPI
+b1045,p008,c001,a0075,INV-1045,"[{""description"":""Tooth pain"",""qty"":1,""price"":800}]",800,0,0,800,paid,2026-08-18,2026-08-18T18:00:00,Cash
+b1046,p008,c001,a0077,INV-1046,"[{""description"":""Video consultation"",""qty"":1,""price"":500}]",500,0,0,500,paid,2026-08-19,2026-08-19T18:00:00,Cash
+b1047,p005,c001,a0078,INV-1047,"[{""description"":""Gum review"",""qty"":1,""price"":700},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",1000,0,0,1000,paid,2026-08-19,2026-08-19T18:00:00,UPI
+b1048,p011,c001,a0079,INV-1048,"[{""description"":""Root canal sitting"",""qty"":1,""price"":4500},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",4800,200,0,4600,paid,2026-08-19,2026-08-19T18:00:00,Cash
+b1049,p012,c001,a0080,INV-1049,"[{""description"":""Root canal sitting"",""qty"":1,""price"":4500}]",4500,0,0,4500,paid,2026-08-19,2026-08-19T18:00:00,UPI
+b1050,p003,c001,a0081,INV-1050,"[{""description"":""Filling"",""qty"":1,""price"":2500}]",2500,200,0,2300,paid,2026-08-20,2026-08-20T18:00:00,Card
+b1051,p011,c001,a0082,INV-1051,"[{""description"":""Tooth pain"",""qty"":1,""price"":800},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",1100,0,0,1100,paid,2026-08-20,2026-08-20T18:00:00,UPI
+b1052,p007,c001,a0083,INV-1052,"[{""description"":""Filling"",""qty"":1,""price"":2500}]",2500,0,0,2500,paid,2026-08-20,2026-08-20T18:00:00,Cash
+b1053,p003,c001,a0084,INV-1053,"[{""description"":""Check-up & cleaning"",""qty"":1,""price"":1500}]",1500,200,0,1300,paid,2026-08-20,2026-08-20T18:00:00,UPI
+b1054,p011,c001,a0085,INV-1054,"[{""description"":""Video consultation"",""qty"":1,""price"":500},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",800,0,0,800,paid,2026-08-20,2026-08-20T18:00:00,UPI
+b1055,p012,c001,a0087,INV-1055,"[{""description"":""Root canal sitting"",""qty"":1,""price"":4500}]",4500,0,0,4500,paid,2026-08-21,2026-08-21T18:00:00,UPI
+b1056,p011,c001,a0088,INV-1056,"[{""description"":""Crown fitting"",""qty"":1,""price"":9000}]",9000,0,0,9000,paid,2026-08-21,2026-08-21T18:00:00,UPI
+b1057,p004,c001,a0089,INV-1057,"[{""description"":""Check-up & cleaning"",""qty"":1,""price"":1500}]",1500,0,0,1500,paid,2026-08-21,2026-08-21T18:00:00,Card
+b1058,p008,c001,a0091,INV-1058,"[{""description"":""Filling"",""qty"":1,""price"":2500},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",2800,0,0,2800,paid,2026-08-21,2026-08-21T18:00:00,Cash
+b1059,p012,c001,a0093,INV-1059,"[{""description"":""Root canal sitting"",""qty"":1,""price"":4500}]",4500,0,0,4500,paid,2026-08-22,2026-08-22T18:00:00,UPI
+b1060,p011,c001,a0094,INV-1060,"[{""description"":""Crown fitting"",""qty"":1,""price"":9000}]",9000,0,0,9000,paid,2026-08-22,2026-08-22T18:00:00,Card
+b1061,p007,c001,a0095,INV-1061,"[{""description"":""Filling"",""qty"":1,""price"":2500}]",2500,0,0,2500,paid,2026-08-22,2026-08-22T18:00:00,Card
+b1062,p010,c001,a0096,INV-1062,"[{""description"":""Filling"",""qty"":1,""price"":2500},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",2800,0,0,2800,paid,2026-08-22,2026-08-22T18:00:00,Card
+b1063,p006,c001,a0097,INV-1063,"[{""description"":""Root canal sitting"",""qty"":1,""price"":4500}]",4500,0,0,4500,paid,2026-08-22,2026-08-22T18:00:00,Card
+b1064,p010,c001,a0098,INV-1064,"[{""description"":""Check-up & cleaning"",""qty"":1,""price"":1500}]",1500,200,0,1300,paid,2026-08-24,2026-08-24T18:00:00,Cash
+b1065,p006,c001,a0099,INV-1065,"[{""description"":""Root canal sitting"",""qty"":1,""price"":4500}]",4500,200,0,4300,paid,2026-08-24,2026-08-24T18:00:00,UPI
+b1066,p009,c001,a0100,INV-1066,"[{""description"":""Crown fitting"",""qty"":1,""price"":9000}]",9000,0,0,9000,paid,2026-08-24,2026-08-24T18:00:00,Card
+b1067,p009,c001,a0101,INV-1067,"[{""description"":""Filling"",""qty"":1,""price"":2500}]",2500,0,0,2500,paid,2026-08-24,2026-08-24T18:00:00,Card
+b1068,p007,c001,a0102,INV-1068,"[{""description"":""Crown fitting"",""qty"":1,""price"":9000}]",9000,0,0,9000,paid,2026-08-24,2026-08-24T18:00:00,UPI
+b1069,p005,c001,a0103,INV-1069,"[{""description"":""Root canal sitting"",""qty"":1,""price"":4500}]",4500,200,0,4300,paid,2026-08-24,2026-08-24T18:00:00,UPI
+b1070,p005,c001,a0105,INV-1070,"[{""description"":""Video consultation"",""qty"":1,""price"":500}]",500,0,0,500,paid,2026-08-25,2026-08-25T18:00:00,Cash
+b1071,p005,c001,a0107,INV-1071,"[{""description"":""Check-up & cleaning"",""qty"":1,""price"":1500},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",1800,0,0,1800,paid,2026-08-25,2026-08-25T18:00:00,UPI
+b1072,p004,c001,a0108,INV-1072,"[{""description"":""Filling"",""qty"":1,""price"":2500}]",2500,0,0,2500,paid,2026-08-25,2026-08-25T18:00:00,UPI
+b1073,p005,c001,a0112,INV-1073,"[{""description"":""Check-up & cleaning"",""qty"":1,""price"":1500}]",1500,0,0,1500,paid,2026-08-26,2026-08-26T18:00:00,Cash
+b1074,p004,c001,a0114,INV-1074,"[{""description"":""Video consultation"",""qty"":1,""price"":500}]",500,0,0,500,paid,2026-08-28,2026-08-28T18:00:00,UPI
+b1075,p004,c001,a0115,INV-1075,"[{""description"":""Gum review"",""qty"":1,""price"":700}]",700,0,0,700,paid,2026-08-28,2026-08-28T18:00:00,Cash
+b1076,p004,c001,a0116,INV-1076,"[{""description"":""Filling"",""qty"":1,""price"":2500},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",2800,0,0,2800,paid,2026-08-28,2026-08-28T18:00:00,UPI
+b1077,p012,c001,a0117,INV-1077,"[{""description"":""Filling"",""qty"":1,""price"":2500},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",2800,0,0,2800,paid,2026-08-28,2026-08-28T18:00:00,UPI
+b1078,p003,c001,a0118,INV-1078,"[{""description"":""Root canal sitting"",""qty"":1,""price"":4500}]",4500,0,0,4500,paid,2026-08-29,2026-08-29T18:00:00,Cash
+b1079,p005,c001,a0119,INV-1079,"[{""description"":""Crown fitting"",""qty"":1,""price"":9000}]",9000,0,0,9000,paid,2026-08-29,2026-08-29T18:00:00,UPI
+b1080,p002,c001,a0120,INV-1080,"[{""description"":""Tooth pain"",""qty"":1,""price"":800}]",800,0,0,800,paid,2026-08-29,2026-08-29T18:00:00,Card
+b1081,p012,c001,a0121,INV-1081,"[{""description"":""Root canal sitting"",""qty"":1,""price"":4500}]",4500,200,0,4300,paid,2026-08-29,2026-08-29T18:00:00,Cash
+b1082,p002,c001,a0122,INV-1082,"[{""description"":""Video consultation"",""qty"":1,""price"":500}]",500,0,0,500,paid,2026-08-29,2026-08-29T18:00:00,UPI
+b1083,p011,c001,a0123,INV-1083,"[{""description"":""Video consultation"",""qty"":1,""price"":500},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",800,0,0,800,paid,2026-08-31,2026-08-31T18:00:00,Cash
+b1084,p012,c001,a0124,INV-1084,"[{""description"":""Check-up & cleaning"",""qty"":1,""price"":1500}]",1500,0,0,1500,paid,2026-08-31,2026-08-31T18:00:00,Card
+b1085,p007,c001,a0128,INV-1085,"[{""description"":""Crown fitting"",""qty"":1,""price"":9000}]",9000,0,0,9000,paid,2026-09-01,2026-09-01T18:00:00,UPI
+b1086,p012,c001,a0129,INV-1086,"[{""description"":""Gum review"",""qty"":1,""price"":700}]",700,0,0,700,paid,2026-09-01,2026-09-01T18:00:00,UPI
+b1087,p007,c001,a0130,INV-1087,"[{""description"":""Crown fitting"",""qty"":1,""price"":9000}]",9000,0,0,9000,paid,2026-09-02,2026-09-02T18:00:00,UPI
+b1088,p005,c001,a0131,INV-1088,"[{""description"":""Filling"",""qty"":1,""price"":2500}]",2500,0,0,2500,paid,2026-09-02,2026-09-02T18:00:00,Card
+b1089,p011,c001,a0132,INV-1089,"[{""description"":""Tooth pain"",""qty"":1,""price"":800}]",800,0,0,800,paid,2026-09-02,2026-09-02T18:00:00,UPI
+b1090,p007,c001,a0133,INV-1090,"[{""description"":""Gum review"",""qty"":1,""price"":700}]",700,0,0,700,paid,2026-09-02,2026-09-02T18:00:00,Card
+b1091,p006,c001,a0134,INV-1091,"[{""description"":""Check-up & cleaning"",""qty"":1,""price"":1500}]",1500,0,0,1500,paid,2026-09-02,2026-09-02T18:00:00,UPI
+b1092,p012,c001,a0136,INV-1092,"[{""description"":""Filling"",""qty"":1,""price"":2500}]",2500,0,0,2500,paid,2026-09-03,2026-09-03T18:00:00,UPI
+b1093,p012,c001,a0137,INV-1093,"[{""description"":""Tooth pain"",""qty"":1,""price"":800}]",800,0,0,800,paid,2026-09-03,2026-09-03T18:00:00,UPI
+b1094,p006,c001,a0138,INV-1094,"[{""description"":""Crown fitting"",""qty"":1,""price"":9000}]",9000,0,0,9000,paid,2026-09-03,2026-09-03T18:00:00,UPI
+b1095,p002,c001,a0139,INV-1095,"[{""description"":""Gum review"",""qty"":1,""price"":700},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",1000,0,0,1000,paid,2026-09-03,2026-09-03T18:00:00,UPI
+b1096,p008,c001,a0140,INV-1096,"[{""description"":""Filling"",""qty"":1,""price"":2500}]",2500,0,0,2500,paid,2026-09-03,2026-09-03T18:00:00,Card
+b1097,p007,c001,a0141,INV-1097,"[{""description"":""Filling"",""qty"":1,""price"":2500},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",2800,0,0,2800,paid,2026-09-03,2026-09-03T18:00:00,UPI
+b1098,p003,c001,a0142,INV-1098,"[{""description"":""Gum review"",""qty"":1,""price"":700}]",700,0,0,700,paid,2026-09-04,2026-09-04T18:00:00,Cash
+b1099,p008,c001,a0143,INV-1099,"[{""description"":""Crown fitting"",""qty"":1,""price"":9000}]",9000,0,0,9000,overdue,2026-09-04,,
+b1100,p006,c001,a0144,INV-1100,"[{""description"":""Tooth pain"",""qty"":1,""price"":800},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",1100,0,0,1100,paid,2026-09-04,2026-09-04T18:00:00,Card
+b1101,p011,c001,a0145,INV-1101,"[{""description"":""Filling"",""qty"":1,""price"":2500}]",2500,0,0,2500,paid,2026-09-04,2026-09-04T18:00:00,Card
+b1102,p006,c001,a0146,INV-1102,"[{""description"":""Check-up & cleaning"",""qty"":1,""price"":1500},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",1800,0,0,1800,paid,2026-09-04,2026-09-04T18:00:00,Cash
+b1103,p004,c001,a0147,INV-1103,"[{""description"":""Check-up & cleaning"",""qty"":1,""price"":1500}]",1500,200,0,1300,paid,2026-09-04,2026-09-04T18:00:00,UPI
+b1104,p006,c001,a0148,INV-1104,"[{""description"":""Root canal sitting"",""qty"":1,""price"":4500}]",4500,0,0,4500,paid,2026-09-04,2026-09-04T18:00:00,Cash
+b1105,p003,c001,a0150,INV-1105,"[{""description"":""Check-up & cleaning"",""qty"":1,""price"":1500},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",1800,0,0,1800,paid,2026-09-05,2026-09-05T18:00:00,Cash
+b1106,p005,c001,a0151,INV-1106,"[{""description"":""Filling"",""qty"":1,""price"":2500}]",2500,0,0,2500,paid,2026-09-05,2026-09-05T18:00:00,Cash
+b1107,p008,c001,a0152,INV-1107,"[{""description"":""Video consultation"",""qty"":1,""price"":500},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",800,0,0,800,overdue,2026-09-05,,
+b1108,p010,c001,a0155,INV-1108,"[{""description"":""Tooth pain"",""qty"":1,""price"":800},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",1100,0,0,1100,paid,2026-09-07,2026-09-07T18:00:00,Cash
+b1109,p003,c001,a0156,INV-1109,"[{""description"":""Gum review"",""qty"":1,""price"":700}]",700,0,0,700,paid,2026-09-07,2026-09-07T18:00:00,Card
+b1110,p009,c001,a0158,INV-1110,"[{""description"":""Check-up & cleaning"",""qty"":1,""price"":1500}]",1500,0,0,1500,paid,2026-09-07,2026-09-07T18:00:00,Cash
+b1111,p005,c001,a0159,INV-1111,"[{""description"":""Root canal sitting"",""qty"":1,""price"":4500},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",4800,0,0,4800,paid,2026-09-07,2026-09-07T18:00:00,Cash
+b1112,p009,c001,a0161,INV-1112,"[{""description"":""Tooth pain"",""qty"":1,""price"":800}]",800,0,0,800,paid,2026-09-08,2026-09-08T18:00:00,UPI
+b1113,p007,c001,a0162,INV-1113,"[{""description"":""Crown fitting"",""qty"":1,""price"":9000},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",9300,0,0,9300,paid,2026-09-08,2026-09-08T18:00:00,UPI
+b1114,p004,c001,a0163,INV-1114,"[{""description"":""Filling"",""qty"":1,""price"":2500}]",2500,0,0,2500,paid,2026-09-08,2026-09-08T18:00:00,UPI
+b1115,p003,c001,a0164,INV-1115,"[{""description"":""Video consultation"",""qty"":1,""price"":500}]",500,0,0,500,paid,2026-09-09,2026-09-09T18:00:00,Card
+b1116,p011,c001,a0165,INV-1116,"[{""description"":""Check-up & cleaning"",""qty"":1,""price"":1500}]",1500,0,0,1500,paid,2026-09-09,2026-09-09T18:00:00,Card
+b1117,p012,c001,a0166,INV-1117,"[{""description"":""Gum review"",""qty"":1,""price"":700}]",700,0,0,700,paid,2026-09-09,2026-09-09T18:00:00,Cash
+b1118,p003,c001,a0167,INV-1118,"[{""description"":""Check-up & cleaning"",""qty"":1,""price"":1500},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",1800,200,0,1600,overdue,2026-09-10,,
+b1119,p007,c001,a0168,INV-1119,"[{""description"":""Crown fitting"",""qty"":1,""price"":9000},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",9300,0,0,9300,paid,2026-09-10,2026-09-10T18:00:00,Card
+b1120,p005,c001,a0170,INV-1120,"[{""description"":""Root canal sitting"",""qty"":1,""price"":4500}]",4500,0,0,4500,paid,2026-09-11,2026-09-11T18:00:00,Card
+b1121,p008,c001,a0173,INV-1121,"[{""description"":""Filling"",""qty"":1,""price"":2500}]",2500,0,0,2500,paid,2026-09-11,2026-09-11T18:00:00,Card
+b1122,p011,c001,a0174,INV-1122,"[{""description"":""Check-up & cleaning"",""qty"":1,""price"":1500}]",1500,0,0,1500,paid,2026-09-11,2026-09-11T18:00:00,UPI
+b1123,p010,c001,a0177,INV-1123,"[{""description"":""Tooth pain"",""qty"":1,""price"":800},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",1100,200,0,900,paid,2026-09-12,2026-09-12T18:00:00,Card
+b1124,p005,c001,a0178,INV-1124,"[{""description"":""Crown fitting"",""qty"":1,""price"":9000}]",9000,0,0,9000,paid,2026-09-12,2026-09-12T18:00:00,Cash
+b1125,p010,c001,a0179,INV-1125,"[{""description"":""Root canal sitting"",""qty"":1,""price"":4500}]",4500,0,0,4500,paid,2026-09-12,2026-09-12T18:00:00,Card
+b1126,p007,c001,a0180,INV-1126,"[{""description"":""Crown fitting"",""qty"":1,""price"":9000},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",9300,0,0,9300,paid,2026-09-12,2026-09-12T18:00:00,Card
+b1127,p005,c001,a0181,INV-1127,"[{""description"":""Filling"",""qty"":1,""price"":2500}]",2500,0,0,2500,paid,2026-09-14,2026-09-14T18:00:00,Card
+b1128,p002,c001,a0183,INV-1128,"[{""description"":""Crown fitting"",""qty"":1,""price"":9000},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",9300,0,0,9300,paid,2026-09-14,2026-09-14T18:00:00,UPI
+b1129,p003,c001,a0184,INV-1129,"[{""description"":""Crown fitting"",""qty"":1,""price"":9000},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",9300,0,0,9300,paid,2026-09-14,2026-09-14T18:00:00,Cash
+b1130,p007,c001,a0185,INV-1130,"[{""description"":""Gum review"",""qty"":1,""price"":700},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",1000,0,0,1000,paid,2026-09-14,2026-09-14T18:00:00,Card
+b1131,p010,c001,a0186,INV-1131,"[{""description"":""Tooth pain"",""qty"":1,""price"":800},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",1100,0,0,1100,overdue,2026-09-14,,
+b1132,p005,c001,a0187,INV-1132,"[{""description"":""Tooth pain"",""qty"":1,""price"":800},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",1100,0,0,1100,paid,2026-09-15,2026-09-15T18:00:00,Cash
+b1133,p012,c001,a0188,INV-1133,"[{""description"":""Crown fitting"",""qty"":1,""price"":9000},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",9300,0,0,9300,paid,2026-09-15,2026-09-15T18:00:00,Cash
+b1134,p007,c001,a0189,INV-1134,"[{""description"":""Tooth pain"",""qty"":1,""price"":800}]",800,200,0,600,paid,2026-09-15,2026-09-15T18:00:00,Card
+b1135,p012,c001,a0190,INV-1135,"[{""description"":""Crown fitting"",""qty"":1,""price"":9000}]",9000,0,0,9000,paid,2026-09-15,2026-09-15T18:00:00,Card
+b1136,p009,c001,a0191,INV-1136,"[{""description"":""Gum review"",""qty"":1,""price"":700}]",700,200,0,500,paid,2026-09-15,2026-09-15T18:00:00,Cash
+b1137,p004,c001,a0192,INV-1137,"[{""description"":""Video consultation"",""qty"":1,""price"":500}]",500,0,0,500,paid,2026-09-16,2026-09-16T18:00:00,Cash
+b1138,p003,c001,a0193,INV-1138,"[{""description"":""Check-up & cleaning"",""qty"":1,""price"":1500}]",1500,0,0,1500,paid,2026-09-16,2026-09-16T18:00:00,UPI
+b1139,p003,c001,a0195,INV-1139,"[{""description"":""Root canal sitting"",""qty"":1,""price"":4500}]",4500,0,0,4500,paid,2026-09-16,2026-09-16T18:00:00,Card
+b1140,p011,c001,a0197,INV-1140,"[{""description"":""Gum review"",""qty"":1,""price"":700}]",700,0,0,700,paid,2026-09-16,2026-09-16T18:00:00,Cash
+b1141,p009,c001,a0198,INV-1141,"[{""description"":""Video consultation"",""qty"":1,""price"":500}]",500,0,0,500,paid,2026-09-17,2026-09-17T18:00:00,Card
+b1142,p003,c001,a0199,INV-1142,"[{""description"":""Filling"",""qty"":1,""price"":2500}]",2500,200,0,2300,paid,2026-09-17,2026-09-17T18:00:00,Cash
+b1143,p011,c001,a0200,INV-1143,"[{""description"":""Gum review"",""qty"":1,""price"":700},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",1000,0,0,1000,paid,2026-09-17,2026-09-17T18:00:00,Cash
+b1144,p008,c001,a0201,INV-1144,"[{""description"":""Root canal sitting"",""qty"":1,""price"":4500}]",4500,200,0,4300,paid,2026-09-17,2026-09-17T18:00:00,Card
+b1145,p010,c001,a0202,INV-1145,"[{""description"":""Video consultation"",""qty"":1,""price"":500}]",500,0,0,500,paid,2026-09-17,2026-09-17T18:00:00,UPI
+b1146,p007,c001,a0203,INV-1146,"[{""description"":""Video consultation"",""qty"":1,""price"":500}]",500,0,0,500,paid,2026-09-18,2026-09-18T18:00:00,Card
+b1147,p005,c001,a0204,INV-1147,"[{""description"":""Tooth pain"",""qty"":1,""price"":800}]",800,200,0,600,overdue,2026-09-18,,
+b1148,p009,c001,a0205,INV-1148,"[{""description"":""Tooth pain"",""qty"":1,""price"":800}]",800,0,0,800,paid,2026-09-18,2026-09-18T18:00:00,Cash
+b1149,p007,c001,a0207,INV-1149,"[{""description"":""Tooth pain"",""qty"":1,""price"":800}]",800,0,0,800,paid,2026-09-18,2026-09-18T18:00:00,UPI
+b1150,p008,c001,a0208,INV-1150,"[{""description"":""Tooth pain"",""qty"":1,""price"":800},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",1100,200,0,900,paid,2026-09-18,2026-09-18T18:00:00,Cash
+b1151,p010,c001,a0210,INV-1151,"[{""description"":""Video consultation"",""qty"":1,""price"":500},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",800,200,0,600,paid,2026-09-19,2026-09-19T18:00:00,UPI
+b1152,p006,c001,a0212,INV-1152,"[{""description"":""Tooth pain"",""qty"":1,""price"":800},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",1100,0,0,1100,paid,2026-09-19,2026-09-19T18:00:00,Card
+b1153,p005,c001,a0213,INV-1153,"[{""description"":""Filling"",""qty"":1,""price"":2500},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",2800,0,0,2800,paid,2026-09-19,2026-09-19T18:00:00,Cash
+b1154,p007,c001,a0214,INV-1154,"[{""description"":""Root canal sitting"",""qty"":1,""price"":4500},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",4800,200,0,4600,overdue,2026-09-21,,
+b1155,p009,c001,a0215,INV-1155,"[{""description"":""Check-up & cleaning"",""qty"":1,""price"":1500}]",1500,0,0,1500,paid,2026-09-21,2026-09-21T18:00:00,Card
+b1156,p007,c001,a0216,INV-1156,"[{""description"":""Filling"",""qty"":1,""price"":2500},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",2800,0,0,2800,overdue,2026-09-21,,
+b1157,p006,c001,a0217,INV-1157,"[{""description"":""Gum review"",""qty"":1,""price"":700}]",700,0,0,700,paid,2026-09-22,2026-09-22T18:00:00,Card
+b1158,p002,c001,a0219,INV-1158,"[{""description"":""Root canal sitting"",""qty"":1,""price"":4500},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",4800,0,0,4800,paid,2026-09-22,2026-09-22T18:00:00,Card
+b1159,p009,c001,a0220,INV-1159,"[{""description"":""Filling"",""qty"":1,""price"":2500},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",2800,0,0,2800,paid,2026-09-22,2026-09-22T18:00:00,UPI
+b1160,p005,c001,a0221,INV-1160,"[{""description"":""Gum review"",""qty"":1,""price"":700},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",1000,0,0,1000,overdue,2026-09-22,,
+b1161,p007,c001,a0222,INV-1161,"[{""description"":""Root canal sitting"",""qty"":1,""price"":4500},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",4800,0,0,4800,paid,2026-09-22,2026-09-22T18:00:00,UPI
+b1162,p011,c001,a0223,INV-1162,"[{""description"":""Tooth pain"",""qty"":1,""price"":800}]",800,200,0,600,pending,2026-09-23,,
+b1163,p006,c001,a0224,INV-1163,"[{""description"":""Root canal sitting"",""qty"":1,""price"":4500}]",4500,0,0,4500,paid,2026-09-23,2026-09-23T18:00:00,Card
+b1164,p011,c001,a0225,INV-1164,"[{""description"":""Video consultation"",""qty"":1,""price"":500}]",500,0,0,500,paid,2026-09-23,2026-09-23T18:00:00,UPI
+b1165,p008,c001,a0227,INV-1165,"[{""description"":""Gum review"",""qty"":1,""price"":700},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",1000,0,0,1000,paid,2026-09-23,2026-09-23T18:00:00,UPI
+b1166,p011,c001,a0228,INV-1166,"[{""description"":""Gum review"",""qty"":1,""price"":700}]",700,0,0,700,pending,2026-09-23,,
+b1167,p010,c001,a0230,INV-1167,"[{""description"":""Gum review"",""qty"":1,""price"":700}]",700,0,0,700,paid,2026-09-24,2026-09-24T18:00:00,Card
+b1168,p009,c001,a0231,INV-1168,"[{""description"":""Tooth pain"",""qty"":1,""price"":800}]",800,200,0,600,paid,2026-09-24,2026-09-24T18:00:00,UPI
+b1169,p009,c001,a0232,INV-1169,"[{""description"":""Tooth pain"",""qty"":1,""price"":800},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",1100,0,0,1100,paid,2026-09-24,2026-09-24T18:00:00,Cash
+b1170,p008,c001,a0234,INV-1170,"[{""description"":""Tooth pain"",""qty"":1,""price"":800}]",800,0,0,800,pending,2026-09-24,,
+b1171,p004,c001,a0236,INV-1171,"[{""description"":""Check-up & cleaning"",""qty"":1,""price"":1500}]",1500,0,0,1500,pending,2026-09-25,,
+b1172,p012,c001,a0237,INV-1172,"[{""description"":""Tooth pain"",""qty"":1,""price"":800},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",1100,0,0,1100,pending,2026-09-25,,
+b1173,p010,c001,a0239,INV-1173,"[{""description"":""Check-up & cleaning"",""qty"":1,""price"":1500}]",1500,0,0,1500,paid,2026-09-26,2026-09-26T18:00:00,UPI
+b1174,p005,c001,a0240,INV-1174,"[{""description"":""Check-up & cleaning"",""qty"":1,""price"":1500},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",1800,0,0,1800,paid,2026-09-26,2026-09-26T18:00:00,Cash
+b1175,p010,c001,a0241,INV-1175,"[{""description"":""Check-up & cleaning"",""qty"":1,""price"":1500}]",1500,0,0,1500,pending,2026-09-26,,
+b1176,p011,c001,a0242,INV-1176,"[{""description"":""Filling"",""qty"":1,""price"":2500}]",2500,200,0,2300,pending,2026-09-26,,
+b1177,p007,c001,a0243,INV-1177,"[{""description"":""Video consultation"",""qty"":1,""price"":500}]",500,0,0,500,paid,2026-09-28,2026-09-28T18:00:00,Card
+b1178,p009,c001,a0244,INV-1178,"[{""description"":""Video consultation"",""qty"":1,""price"":500},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",800,0,0,800,paid,2026-09-28,2026-09-28T18:00:00,Cash
+b1179,p011,c001,a0246,INV-1179,"[{""description"":""Gum review"",""qty"":1,""price"":700},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",1000,0,0,1000,pending,2026-09-28,,
+b1180,p007,c001,a0247,INV-1180,"[{""description"":""Root canal sitting"",""qty"":1,""price"":4500}]",4500,0,0,4500,pending,2026-09-29,,
+b1181,p002,c001,a0248,INV-1181,"[{""description"":""Tooth pain"",""qty"":1,""price"":800}]",800,200,0,600,paid,2026-09-29,2026-09-29T18:00:00,Card
+b1182,p010,c001,a0250,INV-1182,"[{""description"":""Video consultation"",""qty"":1,""price"":500},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",800,0,0,800,pending,2026-09-30,,
+b1183,p009,c001,a0252,INV-1183,"[{""description"":""Check-up & cleaning"",""qty"":1,""price"":1500},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",1800,200,0,1600,pending,2026-09-30,,
+b1184,p002,c001,a0253,INV-1184,"[{""description"":""Filling"",""qty"":1,""price"":2500},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",2800,0,0,2800,paid,2026-09-30,2026-09-30T18:00:00,Card
+b1185,p011,c001,a0257,INV-1185,"[{""description"":""Check-up & cleaning"",""qty"":1,""price"":1500}]",1500,0,0,1500,paid,2026-10-01,2026-10-01T18:00:00,Card
+b1186,p005,c001,a0259,INV-1186,"[{""description"":""Filling"",""qty"":1,""price"":2500},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",2800,0,0,2800,pending,2026-10-01,,
+b1187,p008,c001,a0262,INV-1187,"[{""description"":""Crown fitting"",""qty"":1,""price"":9000},{""description"":""IOPA X-ray"",""qty"":1,""price"":300}]",9300,200,0,9100,pending,2026-10-02,,
+b1188,p011,c001,a0263,INV-1188,"[{""description"":""Tooth pain"",""qty"":1,""price"":800}]",800,0,0,800,paid,2026-10-02,2026-10-02T18:00:00,Card
+b1189,p009,c001,a0264,INV-1189,"[{""description"":""Video consultation"",""qty"":1,""price"":500}]",500,0,0,500,pending,2026-10-02,,

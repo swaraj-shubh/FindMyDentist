@@ -1,0 +1,43 @@
+id,dentist_id,author,rating,text,date
+rvd0010,d001,Rohit K.,5,Explained every option clearly and never rushed me. The treatment was completely painless.,2026-09-26
+rvd0011,d001,Shreya M.,5,Very professional clinic. Appointment started on time and the follow-up call was a nice touch.,2026-09-15
+rvd0012,d001,Imran A.,4,I was terrified of dentists — this was the first visit where I actually felt calm.,2026-09-04
+rvd0020,d002,Shreya M.,5,I was terrified of dentists — this was the first visit where I actually felt calm.,2026-09-23
+rvd0021,d002,Imran A.,5,"Clear pricing up front, no surprises. Highly recommend.",2026-09-12
+rvd0022,d002,Lavanya S.,5,"Great with my parents, patient and respectful. The digital scans were impressive.",2026-09-01
+rvd0030,d003,Imran A.,5,"Great with my parents, patient and respectful. The digital scans were impressive.",2026-09-20
+rvd0031,d003,Lavanya S.,5,Fixed a problem two other clinics couldn't. Thorough and kind.,2026-09-09
+rvd0032,d003,Gautam P.,5,Explained every option clearly and never rushed me. The treatment was completely painless.,2026-08-29
+rvd0040,d004,Lavanya S.,5,Explained every option clearly and never rushed me. The treatment was completely painless.,2026-09-17
+rvd0041,d004,Gautam P.,5,Very professional clinic. Appointment started on time and the follow-up call was a nice touch.,2026-09-06
+rvd0042,d004,Nisha T.,4,I was terrified of dentists — this was the first visit where I actually felt calm.,2026-08-26
+rvd0050,d005,Gautam P.,5,I was terrified of dentists — this was the first visit where I actually felt calm.,2026-09-14
+rvd0051,d005,Nisha T.,5,"Clear pricing up front, no surprises. Highly recommend.",2026-09-03
+rvd0052,d005,Varun D.,5,"Great with my parents, patient and respectful. The digital scans were impressive.",2026-08-23
+rvd0060,d006,Nisha T.,5,"Great with my parents, patient and respectful. The digital scans were impressive.",2026-09-11
+rvd0061,d006,Varun D.,5,Fixed a problem two other clinics couldn't. Thorough and kind.,2026-08-31
+rvd0062,d006,Rohit K.,5,Explained every option clearly and never rushed me. The treatment was completely painless.,2026-08-20
+rvd0070,d007,Varun D.,5,Explained every option clearly and never rushed me. The treatment was completely painless.,2026-09-08
+rvd0071,d007,Rohit K.,5,Very professional clinic. Appointment started on time and the follow-up call was a nice touch.,2026-08-28
+rvd0072,d007,Shreya M.,4,I was terrified of dentists — this was the first visit where I actually felt calm.,2026-08-17
+rvd0080,d008,Rohit K.,5,I was terrified of dentists — this was the first visit where I actually felt calm.,2026-09-05
+rvd0081,d008,Shreya M.,5,"Clear pricing up front, no surprises. Highly recommend.",2026-08-25
+rvd0082,d008,Imran A.,5,"Great with my parents, patient and respectful. The digital scans were impressive.",2026-08-14
+rvd0090,d009,Shreya M.,5,"Great with my parents, patient and respectful. The digital scans were impressive.",2026-09-02
+rvd0091,d009,Imran A.,5,Fixed a problem two other clinics couldn't. Thorough and kind.,2026-08-22
+rvd0092,d009,Lavanya S.,5,Explained every option clearly and never rushed me. The treatment was completely painless.,2026-08-11
+rvd0100,d010,Imran A.,5,Explained every option clearly and never rushed me. The treatment was completely painless.,2026-08-30
+rvd0101,d010,Lavanya S.,5,Very professional clinic. Appointment started on time and the follow-up call was a nice touch.,2026-08-19
+rvd0102,d010,Gautam P.,4,I was terrified of dentists — this was the first visit where I actually felt calm.,2026-08-08
+rvd0110,d011,Lavanya S.,5,I was terrified of dentists — this was the first visit where I actually felt calm.,2026-08-27
+rvd0111,d011,Gautam P.,5,"Clear pricing up front, no surprises. Highly recommend.",2026-08-16
+rvd0112,d011,Nisha T.,5,"Great with my parents, patient and respectful. The digital scans were impressive.",2026-08-05
+rvd0120,d012,Gautam P.,5,"Great with my parents, patient and respectful. The digital scans were impressive.",2026-08-24
+rvd0121,d012,Nisha T.,5,Fixed a problem two other clinics couldn't. Thorough and kind.,2026-08-13
+rvd0122,d012,Varun D.,5,Explained every option clearly and never rushed me. The treatment was completely painless.,2026-08-02
+rvd0130,d013,Nisha T.,5,Explained every option clearly and never rushed me. The treatment was completely painless.,2026-08-21
+rvd0131,d013,Varun D.,5,Very professional clinic. Appointment started on time and the follow-up call was a nice touch.,2026-08-10
+rvd0132,d013,Rohit K.,4,I was terrified of dentists — this was the first visit where I actually felt calm.,2026-07-30
+rvd0140,d014,Varun D.,5,I was terrified of dentists — this was the first visit where I actually felt calm.,2026-08-18
+rvd0141,d014,Rohit K.,5,"Clear pricing up front, no surprises. Highly recommend.",2026-08-07
+rvd0142,d014,Shreya M.,5,"Great with my parents, patient and respectful. The digital scans were impressive.",2026-07-27

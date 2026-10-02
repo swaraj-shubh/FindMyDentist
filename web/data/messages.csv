@@ -1,0 +1,10 @@
+id,clinic_id,patient_id,sender,body,created_at,read
+mp0021500,c001,p002,clinic,"Hi Rahul, reminder for your root canal sitting tomorrow at 9:00 AM with Dr. Neha.",2026-10-01T18:55:46.237Z,true
+mp0021440,c001,p002,patient,Thanks! Should I eat before coming?,2026-10-01T19:55:46.237Z,true
+mp0021430,c001,p002,clinic,"Yes, please have a light meal — you'll be numb for a few hours afterwards.",2026-10-01T20:05:46.237Z,true
+mp005300,c001,p005,patient,My daughter will bring me for the denture appointment. Can she come inside?,2026-10-02T14:55:46.237Z,false
+mp00390,c001,p003,patient,Is it normal for gums to feel sore after the deep cleaning?,2026-10-02T18:25:46.237Z,false
+mp0012900,c001,p001,clinic,"Hi Ananya, your implant consultation with Dr. Arjun is confirmed. Please bring your OPG report.",2026-09-30T19:35:46.237Z,true
+mp0012880,c001,p001,patient,Will do. Is CBCT done the same day?,2026-09-30T19:55:46.237Z,true
+mp00845,c001,p008,patient,The implant site feels fine. Can I chew on that side now?,2026-10-02T19:10:46.237Z,false
+mp011600,c001,p011,clinic,Your post & core appointment is today at 11:30 AM.,2026-10-02T09:55:46.237Z,true
