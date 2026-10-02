@@ -1,7 +1,7 @@
 import { rename, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { stringify } from "csv-stringify/sync";
-import { DATA_DIR } from "./reader";
+import { DATA_DIR, ensureData } from "./reader";
 import type { RawRow } from "./parser";
 
 const queues = new Map<string, Promise<unknown>>();
@@ -14,6 +14,7 @@ export function withFileLock<T>(name: string, fn: () => Promise<T>): Promise<T> 
 }
 
 export async function writeCsv(name: string, header: string[], rows: RawRow[]) {
+  await ensureData();
   const file = path.join(DATA_DIR, `${name}.csv`);
   const text = stringify([header, ...rows.map((r) => header.map((h) => r[h] ?? ""))]);
   await writeFile(`${file}.tmp`, text);
