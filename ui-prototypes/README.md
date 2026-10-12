@@ -1,6 +1,6 @@
-# FMD Dentist Workspace — UI prototype
+# FMD Dentist — UI prototypes
 
-A static, zero-build page (`dentist.html` + `favicon.svg`). All data is fictional and saved in the visitor's browser (LocalStorage).
+Two static, zero-build pages: the public website (`dentist-web.html`, served at `/`) and the clinic workspace (`dentist.html`, served at `/dentist`), plus `favicon.svg` and `assets/smile.jpg`. All data is fictional and saved in the visitor's browser (LocalStorage).
 
 ## Deploy on Vercel
 
@@ -13,9 +13,9 @@ vercel          # preview
 vercel --prod   # production
 ```
 
-`vercel.json` serves the page at `/` (rewrite to `/dentist`), enables clean URLs, and adds basic security headers.
+`vercel.json` serves the website at `/` (rewrite to `/dentist-web`), the workspace at `/dentist`, enables clean URLs, and adds basic security headers.
 
 ## Run locally
 ```bash
-cd ui-prototypes && python3 -m http.server 8090   # http://127.0.0.1:8090/dentist.html
+cd ui-prototypes && python3 -m http.server 8090   # http://127.0.0.1:8090/dentist-web.html  (website)  or  /dentist.html  (workspace)
 ```
