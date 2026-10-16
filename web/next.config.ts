@@ -1,8 +1,19 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  // The CSV "database" is read at runtime, not imported, so tell Vercel to ship it with every function.
-  outputFileTracingIncludes: { "/**/*": ["./data/**/*"] },
+  /* config options here */
+  cacheComponents: true,
+  images: { qualities: [75, 92] },
+  devIndicators: false,
+  partialPrefetching: true,
+  turbopack: {
+    rules: {
+      "*.css": {
+        loaders: ["@tailwindcss/turbopack"],
+        as: "*.css",
+      },
+    },
+  },
 };
 
 export default nextConfig;
